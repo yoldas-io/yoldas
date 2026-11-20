@@ -1,0 +1,11 @@
+name: Feature request / Özellik isteği
+description: Suggest an idea. / Bir öneride bulunun.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes: {label: "What would you like Yoldaş to do? / Yoldaş ne yapsın?"}
+    validations: {required: true}
+  - type: input
+    id: model
+    attributes: {label: "Car model / Araç modeli"}

@@ -1,0 +1,25 @@
+name: Bug report / Hata bildirimi
+description: Something doesn't work as expected. / Bir şey beklendiği gibi çalışmıyor.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "Please don't post your VIN, plate, e-mail or location here. / Şasi numarası, plaka, e-posta ya da konum yazmayın."
+  - type: input
+    id: model
+    attributes: {label: "Car model and year / Araç modeli ve yılı", placeholder: "Seal U DM-i 2025"}
+    validations: {required: true}
+  - type: input
+    id: software
+    attributes: {label: "BYD multimedia software version / BYD multimedya yazılım sürümü", placeholder: "13.1.33.2606100.1"}
+  - type: input
+    id: app
+    attributes: {label: "Yoldaş version / Yoldaş sürümü", placeholder: "0.15.26"}
+    validations: {required: true}
+  - type: textarea
+    id: what
+    attributes: {label: "What happened and what did you expect? / Ne oldu, ne bekliyordunuz?"}
+    validations: {required: true}
+  - type: input
+    id: code
+    attributes: {label: "Support code (Yoldaş › System › Diagnostics) / Destek kodu", description: "Optional. Lets us find the diagnostic log. / İsteğe bağlı."}

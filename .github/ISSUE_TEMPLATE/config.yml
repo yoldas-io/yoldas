@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Installation guide
+    url: https://yoldas.io/en/install
+    about: Step-by-step installation on BYD DiLink screens.
+  - name: Private question (e-mail)
+    url: mailto:iletisim@yoldas.io
+    about: For anything about your account, licence or car that should not be public.
