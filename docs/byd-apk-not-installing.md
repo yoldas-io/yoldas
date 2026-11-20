@@ -65,6 +65,11 @@ Do not give your IMEI to people or websites you do not know. Once Yoldaş is ins
 ### 3. Downgrading
 
 Some BYD owners roll the car back to older software from USB, install the apps and then update again. During this process the screen may not come on and the multimedia settings are reset; some USB sticks cannot start a rollback from newer versions. Yoldaş does not recommend this path. If the other paths did not work, write to us first.
+**Install it once, let Yoldaş do the rest**
+
+Once installed, Yoldaş downloads and installs its own new versions, so you don't have to go through these paths with every update. Home screen, Sentry, four-camera recording and the phone app, all in one app.
+
+[Download Yoldaş](https://yoldas.io/indir/yoldas-arac-321.apk) [All features](https://yoldas.io/en/features)
 
 ## After installation
 
@@ -115,6 +120,26 @@ How to recognize DiLink 5, the two install paths BYD owners use and the settings
 ### [Before and after a BYD update](https://yoldas.io/en/guides/byd-software-update)
 
 What a BYD update can do to installed apps, what to save before you install it and how to bring Yoldaş back afterwards.
+
+### [Does BYD have sentry mode?](https://yoldas.io/en/guides/does-byd-have-sentry-mode)
+
+Which markets have BYD's own sentry mode and which don't; watching your parked car with Yoldaş.
+
+### [Do BYD cameras record?](https://yoldas.io/en/guides/does-byd-record-dashcam)
+
+Which models have BYD's own recorder, why the 360° cameras don't record, and recording with all four cameras without buying a dashcam.
+
+### [BYD screen rotation](https://yoldas.io/en/guides/byd-screen-rotation)
+
+Ways to turn the rotating screen to landscape and portrait, which models have a rotating screen, and a shortcut for cars with no steering wheel button.
+
+### [BYD tyre pressure](https://yoldas.io/en/guides/byd-tyre-pressure)
+
+Recommended cold tyre pressures model by model (bar, kPa, psi) and how to see the pressure on the screen or on your phone.
+
+### [BYD app not connecting](https://yoldas.io/en/guides/byd-app-not-connecting)
+
+What to try against car-adding, connection and service errors in the official BYD app; a phone app independent of BYD.
 
 ### [Installing an APK on a BYD from a USB stick](https://yoldas.io/en/guides/install-apk-byd-usb)
 

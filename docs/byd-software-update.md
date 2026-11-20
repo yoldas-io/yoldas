@@ -1,8 +1,27 @@
-# BYD software update: what happens to your installed apps?
+# How to update your BYD, and what happens to installed apps?
 
-BYD sends software updates (OTA) to your car from time to time. They can remove apps you installed yourself or reset their settings. This guide explains what to save before an update and how to bring Yoldaş back in a few minutes afterwards.
+BYD sends software updates (OTA) to your car from time to time. They can remove apps you installed yourself or reset their settings. This guide explains how an update is done, what to save before an update and how to bring Yoldaş back in a few minutes afterwards.
 
 Last updated: November 20, 2026
+
+## How to do a BYD update
+
+When an update is ready, a notification appears on the car screen. You can install it right away, schedule it for a convenient time or, on cars that support it, start it from the BYD app. To check by hand: **Settings › System › Version › Version update › Upgrade** (menu names can differ by model).
+
+1. **Prepare the car**
+
+Park the car in P. Unplug the charging cable; the car does not charge during the update. Close the doors, the trunk and the hood; don't leave a device in the OBD port.
+2. **Battery and connection**
+
+The battery should be well charged; BYD asks for at least 20%. The car should be somewhere with good reception and connected to the internet.
+3. **Start it and wait**
+
+Installation can take 30 minutes or longer; BYD recommends doing it at night. During this time the car cannot be driven; only the key, interior lights, hazard lights and window switches work. Progress is shown on the screen.
+4. **If it fails**
+
+If the update fails, try again; if it still doesn't work, contact BYD service. Some updates are only done at the service centre.
+
+An update can be postponed or scheduled before it starts; once it has started, wait for it to finish. The release notes appear on the screen with the update.
 
 ## Two different version numbers
 
@@ -55,12 +74,25 @@ Scan the QR code on the car screen with your phone. Your history and preferences
 If **System › Yoldaş helper** doesn't say "Connected", repeat the [helper steps](https://yoldas.io/en/install#yardimci) in the installation guide. Cluster display and the custom bottom bar work through the helper.
 
 If you can't reinstall it, write to [iletisim@yoldas.io](mailto:iletisim@yoldas.io) with your multimedia software version. We'll tell you which way works for your version.
+**Everything in place after the update**
+
+With Yoldaş, your trips, charging sessions and preferences are backed up on the server; even if a BYD update removes Yoldaş, they come back when you reinstall it and pair again.
+
+[Download Yoldaş](https://yoldas.io/indir/yoldas-arac-321.apk) [Phone app](https://yoldas.io/en/phone-app)
 
 ## Yoldaş's own updates
 
 New Yoldaş versions are separate from BYD updates. Yoldaş downloads its own version over Wi-Fi or the car's mobile data, checks its signature and installs it; it does not touch the car's software. Details are on the [download page](https://yoldas.io/en/download) and changes in the [release notes](https://yoldas.io/en/release-notes).
 
 ## Frequently asked questions
+
+### How long does a BYD update take?
+
+Usually 30 minutes or longer; BYD recommends updating at night. The time depends on the size of the update and the model.
+
+### Can I use the car during the update?
+
+No. While it installs, the car cannot be driven and does not charge; only the key, interior lights, hazard lights and window switches work. You can postpone or schedule the update before it starts.
 
 ### Does a BYD update delete Yoldaş?
 
@@ -99,6 +131,26 @@ What the error messages mean, what changed in versions after 2310 and how apps g
 ### [Installing on Sealion 7 and DiLink 5](https://yoldas.io/en/guides/sealion-7-dilink-5-install-apps)
 
 How to recognize DiLink 5, the two install paths BYD owners use and the settings to turn on after installing.
+
+### [Does BYD have sentry mode?](https://yoldas.io/en/guides/does-byd-have-sentry-mode)
+
+Which markets have BYD's own sentry mode and which don't; watching your parked car with Yoldaş.
+
+### [Do BYD cameras record?](https://yoldas.io/en/guides/does-byd-record-dashcam)
+
+Which models have BYD's own recorder, why the 360° cameras don't record, and recording with all four cameras without buying a dashcam.
+
+### [BYD screen rotation](https://yoldas.io/en/guides/byd-screen-rotation)
+
+Ways to turn the rotating screen to landscape and portrait, which models have a rotating screen, and a shortcut for cars with no steering wheel button.
+
+### [BYD tyre pressure](https://yoldas.io/en/guides/byd-tyre-pressure)
+
+Recommended cold tyre pressures model by model (bar, kPa, psi) and how to see the pressure on the screen or on your phone.
+
+### [BYD app not connecting](https://yoldas.io/en/guides/byd-app-not-connecting)
+
+What to try against car-adding, connection and service errors in the official BYD app; a phone app independent of BYD.
 
 ### [Installing an APK on a BYD from a USB stick](https://yoldas.io/en/guides/install-apk-byd-usb)
 

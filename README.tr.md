@@ -26,9 +26,20 @@ Son APK'yı [Sürümler](https://github.com/yoldas-io/yoldas/releases/latest) b�
 
 ## Rehberler
 
-- [BYD'ye APK yüklenmiyor: nedenleri ve çözümleri](docs/byd-apk-yuklenmiyor.md)
-- [Sealion 7 ve DiLink 5'e uygulama kurma](docs/sealion-7-dilink-5-uygulama-kurma.md)
-- [BYD güncellemesi: yüklü uygulamalar ne olur?](docs/byd-yazilim-guncellemesi.md)
+- [BYD DiLink 3, 4 ve 5 nedir?](docs/byd-dilink-3-4-5.md)
+- [BYD'ye APK yüklenmiyor](docs/byd-apk-yuklenmiyor.md)
+- [Sealion 7 ve DiLink 5'e kurulum](docs/sealion-7-dilink-5-uygulama-kurma.md)
+- [BYD güncellemesinden önce ve sonra](docs/byd-yazilim-guncellemesi.md)
+- [BYD'de nöbetçi modu var mı?](docs/byd-nobetci-modu-var-mi.md)
+- [BYD kameraları kayıt yapıyor mu?](docs/byd-kamera-kayit-yapiyor-mu.md)
+- [BYD ekran döndürme](docs/byd-ekran-dondurme.md)
+- [BYD lastik basıncı](docs/byd-lastik-basinci.md)
+- [BYD uygulaması bağlanmıyor](docs/byd-uygulamasi-baglanmiyor.md)
+- [BYD'ye USB bellekle APK yükleme](docs/byd-usb-ile-apk-yukleme.md)
+- [APK dosyasının SHA-256 özeti nasıl doğrulanır?](docs/apk-sha256-dogrulama.md)
+- [BYD için araç uygulaması nasıl seçilir?](docs/byd-icin-arac-uygulamasi-secimi.md)
+- [Otomasyonlar: ne işe yarar, nasıl kullanılır](docs/otomasyonlar-nasil-kullanilir.md)
+- [Şarj fiyatı ve yolculuk maliyeti](docs/sarj-fiyati-ve-yolculuk-maliyeti.md)
 - [Kurulum](docs/kurulum.md)
 
 ## Ekran görüntüleri

@@ -26,9 +26,20 @@ Get the latest APK from [Releases](https://github.com/yoldas-io/yoldas/releases/
 
 ## Guides
 
-- [BYD APK not installing: causes and fixes](docs/byd-apk-not-installing.md)
-- [Install apps on Sealion 7 and DiLink 5](docs/sealion-7-dilink-5-install-apps.md)
-- [BYD software update: what happens to your apps](docs/byd-software-update.md)
+- [What are BYD DiLink 3, 4 and 5?](docs/byd-dilink-3-4-5.md)
+- [APK not installing on a BYD](docs/byd-apk-not-installing.md)
+- [Installing on Sealion 7 and DiLink 5](docs/sealion-7-dilink-5-install-apps.md)
+- [Before and after a BYD update](docs/byd-software-update.md)
+- [Does BYD have sentry mode?](docs/does-byd-have-sentry-mode.md)
+- [Do BYD cameras record?](docs/does-byd-record-dashcam.md)
+- [BYD screen rotation](docs/byd-screen-rotation.md)
+- [BYD tyre pressure](docs/byd-tyre-pressure.md)
+- [BYD app not connecting](docs/byd-app-not-connecting.md)
+- [Installing an APK on a BYD from a USB stick](docs/install-apk-byd-usb.md)
+- [How to verify an APK's SHA-256 hash](docs/verify-apk-sha256.md)
+- [How to choose a car app for your BYD](docs/choose-car-app-byd.md)
+- [Automations: what they do and how to use them](docs/how-to-use-automations.md)
+- [Charging price and trip cost](docs/charging-price-and-trip-cost.md)
 - [Installation](docs/install.md)
 
 ## Screenshots

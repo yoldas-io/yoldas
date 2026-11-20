@@ -1,8 +1,27 @@
-# BYD yazılım güncellemesi: yüklü uygulamalar ne olur?
+# BYD güncellemesi nasıl yapılır, yüklü uygulamalar ne olur?
 
-BYD aracınıza zaman zaman yazılım güncellemesi (OTA) gönderir. Bu güncellemeler sonradan kurduğunuz uygulamaları kaldırabilir ya da ayarlarını sıfırlayabilir. Bu rehber güncellemeden önce neyi kaydetmeniz gerektiğini ve sonra Yoldaş'ı birkaç dakikada nasıl geri getireceğinizi anlatır.
+BYD aracınıza zaman zaman yazılım güncellemesi (OTA) gönderir. Bu güncellemeler sonradan kurduğunuz uygulamaları kaldırabilir ya da ayarlarını sıfırlayabilir. Bu rehber güncellemenin nasıl yapıldığını, güncellemeden önce neyi kaydetmeniz gerektiğini ve sonra Yoldaş'ı birkaç dakikada nasıl geri getireceğinizi anlatır.
 
 Son güncelleme: 20 Kasım 2026
+
+## BYD güncellemesi nasıl yapılır?
+
+Güncelleme hazır olunca araç ekranında bildirim çıkar. Hemen kurabilir, uygun bir saate zamanlayabilir ya da destekleyen araçlarda BYD uygulamasından başlatabilirsiniz. Elle bakmak için: **Ayarlar › Sistem › Sürüm › Sürüm güncelleme › Yükselt** (menü adları modele göre değişebilir).
+
+1. **Aracı hazırlayın**
+
+Aracı P'de park edin. Şarj kablosunu çıkarın; güncelleme sırasında araç şarj olmaz. Kapıları, bagajı ve kaputu kapatın; OBD girişinde cihaz bırakmayın.
+2. **Pil ve bağlantı**
+
+Pil yüksek olmalı; BYD en az %20 istiyor. Araç iyi çeken bir yerde, internete bağlı olmalı.
+3. **Başlatın ve bekleyin**
+
+Kurulum 30 dakika ya da daha uzun sürebilir; BYD geceyi öneriyor. Bu sırada araç sürülemez; yalnız anahtar, iç aydınlatma, dörtlüler ve cam düğmeleri çalışır. İlerleme ekranda görünür.
+4. **Olmazsa**
+
+Güncelleme başarısız olursa yeniden deneyin; yine olmazsa BYD servisine başvurun. Bazı güncellemeler yalnız serviste yapılır.
+
+Güncelleme başlamadan ertelenebilir ya da zamanlanabilir; başladıktan sonra bitmesini bekleyin. Güncelleme notları güncellemeyle birlikte ekranda görünür.
 
 ## İki ayrı sürüm numarası
 
@@ -53,12 +72,25 @@ Araç ekranındaki karekodu telefonla okutun. Sunucudaki geçmişiniz ve tercihl
 4. **Yoldaş yardımcısını kontrol edinSistem › Yoldaş yardımcısı** sayfasında "Bağlı" yazmıyorsa kurulum rehberindeki [yardımcı adımlarını](https://yoldas.io/byd-uygulama-yukleme#yardimci) yeniden yapın. Kadrana aktarım ve özel alt çubuk yardımcıyla çalışır.
 
 Yeniden kuramıyorsanız [iletisim@yoldas.io](mailto:iletisim@yoldas.io) adresine multimedya yazılım sürümünüzü yazın. Sürümünüze göre hangi yolun çalıştığını söyleriz.
+**Güncellemeden sonra her şey yerinde**
+
+Yoldaş'ta yolculuklarınız, şarjlarınız ve tercihleriniz sunucuda yedeklidir; BYD güncellemesi Yoldaş'ı kaldırsa bile yeniden kurup eşleyince geri gelir.
+
+[Yoldaş'ı indir](https://yoldas.io/indir/yoldas-arac-321.apk) [Telefon uygulaması](https://yoldas.io/ozellikler/telefon-uygulamasi)
 
 ## Yoldaş'ın kendi güncellemeleri
 
 Yoldaş'ın yeni sürümleri BYD güncellemesinden ayrıdır. Yoldaş kendi sürümünü Wi-Fi'de ya da aracın mobil verisinde kendisi indirir, imzasını denetler ve kurar; aracın yazılımına dokunmaz. Ayrıntılar [indirme sayfasında](https://yoldas.io/indir), değişiklikler [sürüm notlarında](https://yoldas.io/surum-notlari).
 
 ## Sık sorulan sorular
+
+### BYD güncellemesi ne kadar sürer?
+
+Genellikle 30 dakika ya da daha uzun sürer; BYD güncellemeyi gece yapmayı öneriyor. Süre güncellemenin büyüklüğüne ve modele göre değişir.
+
+### Güncelleme sırasında araç kullanılabilir mi?
+
+Hayır. Kurulum sürerken araç sürülemez ve şarj olmaz; yalnız anahtar, iç aydınlatma, dörtlüler ve cam düğmeleri çalışır. Güncellemeyi başlamadan erteleyebilir ya da zamanlayabilirsiniz.
 
 ### BYD güncellemesi Yoldaş'ı siler mi?
 
@@ -97,6 +129,26 @@ Hata mesajları ne anlama gelir, 2310 sonrası sürümlerde ne değişti ve kili
 ### [Sealion 7 ve DiLink 5'e kurulum](https://yoldas.io/rehber/sealion-7-dilink-5-uygulama-kurma)
 
 DiLink 5'i nasıl tanırsınız, BYD sahiplerinin kullandığı iki kurulum yolu ve kurulumdan sonra açılması gereken ayarlar.
+
+### [BYD'de nöbetçi modu var mı?](https://yoldas.io/rehber/byd-nobetci-modu-var-mi)
+
+BYD'nin kendi nöbetçi modu hangi pazarda var, hangisinde yok; park hâlindeki aracı Yoldaş'la izlemek.
+
+### [BYD kameraları kayıt yapıyor mu?](https://yoldas.io/rehber/byd-kamera-kayit-yapiyor-mu)
+
+BYD'nin kendi kayıt cihazı hangi modelde var, 360° kameralar neden kaydetmiyor ve ek dashcam almadan dört kamerayla kayıt.
+
+### [BYD ekran döndürme](https://yoldas.io/rehber/byd-ekran-dondurme)
+
+Döner ekranı yatay ve dikeye almanın yolları, hangi modellerde ekran döner ve direksiyonda tuşu olmayan araçlar için kısayol.
+
+### [BYD lastik basıncı](https://yoldas.io/rehber/byd-lastik-basinci)
+
+Model model önerilen soğuk lastik basınçları (bar, kPa, psi) ve basıncı ekranda ya da telefonda görmenin yolu.
+
+### [BYD uygulaması bağlanmıyor](https://yoldas.io/rehber/byd-uygulamasi-baglanmiyor)
+
+Resmî BYD uygulamasında araç ekleme, bağlantı ve servis hatalarına karşı denenecekler; BYD'den bağımsız telefon uygulaması.
 
 ### [BYD'ye USB bellekle APK yükleme](https://yoldas.io/rehber/byd-usb-ile-apk-yukleme)
 

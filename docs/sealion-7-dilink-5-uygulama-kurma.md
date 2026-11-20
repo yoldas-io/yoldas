@@ -38,6 +38,11 @@ Avustralya'daki bir Sealion 7 sahibi, yazılım sürümü ekranındaki fabrika a
 Gizli sayfadaki iki mavi sıfırlama düğmesi aracı fabrika ayarına döndürür. Yalnız hata ayıklama anahtarlarını kullanın.
 
 Aynı bildirime göre o araçta kablosuz ADB park ettikten sonra kendiliğinden kapanıyor ve ekrandan kurulum "bilinmeyen kaynak" diye reddediliyor; ADB her seferinde yeniden açılmalı.
+**Yoldaş DiLink 5'te de çalışır**
+
+Sealion 7 ve diğer DiLink 5'li BYD'lerde Yoldaş'la nöbetçi, aracın kameralarıyla kayıt, kadranda harita ve telefondan kontrol tek uygulamada.
+
+[Yoldaş'ı indir](https://yoldas.io/indir/yoldas-arac-321.apk) [Yoldaş ve Sealion 7](https://yoldas.io/byd-sealion-7)
 
 ## Kurulumdan sonra açılması gereken ayarlar
 
@@ -86,6 +91,26 @@ Hata mesajları ne anlama gelir, 2310 sonrası sürümlerde ne değişti ve kili
 ### [BYD güncellemesinden önce ve sonra](https://yoldas.io/rehber/byd-yazilim-guncellemesi)
 
 BYD güncellemesi gelince yüklü uygulamalara ne olabilir, kurmadan önce neyi kaydetmelisiniz, sonra Yoldaş'ı nasıl geri getirirsiniz.
+
+### [BYD'de nöbetçi modu var mı?](https://yoldas.io/rehber/byd-nobetci-modu-var-mi)
+
+BYD'nin kendi nöbetçi modu hangi pazarda var, hangisinde yok; park hâlindeki aracı Yoldaş'la izlemek.
+
+### [BYD kameraları kayıt yapıyor mu?](https://yoldas.io/rehber/byd-kamera-kayit-yapiyor-mu)
+
+BYD'nin kendi kayıt cihazı hangi modelde var, 360° kameralar neden kaydetmiyor ve ek dashcam almadan dört kamerayla kayıt.
+
+### [BYD ekran döndürme](https://yoldas.io/rehber/byd-ekran-dondurme)
+
+Döner ekranı yatay ve dikeye almanın yolları, hangi modellerde ekran döner ve direksiyonda tuşu olmayan araçlar için kısayol.
+
+### [BYD lastik basıncı](https://yoldas.io/rehber/byd-lastik-basinci)
+
+Model model önerilen soğuk lastik basınçları (bar, kPa, psi) ve basıncı ekranda ya da telefonda görmenin yolu.
+
+### [BYD uygulaması bağlanmıyor](https://yoldas.io/rehber/byd-uygulamasi-baglanmiyor)
+
+Resmî BYD uygulamasında araç ekleme, bağlantı ve servis hatalarına karşı denenecekler; BYD'den bağımsız telefon uygulaması.
 
 ### [BYD'ye USB bellekle APK yükleme](https://yoldas.io/rehber/byd-usb-ile-apk-yukleme)
 
