@@ -72,6 +72,10 @@ Ani frende olay anının öncesi ve sonrası kendiliğinden korunur; önemli kay
 
 ## Diğer rehberler
 
+### [BYD için en iyi uygulamalar](https://yoldas.io/rehber/byd-icin-en-iyi-uygulamalar)
+
+Harita, müzik, video, dashcam ve telefondan kontrol için BYD ekranında işe yarayan uygulamalar.
+
 ### [BYD'de YouTube, Netflix, Google Maps](https://yoldas.io/rehber/byd-youtube-netflix-google-maps)
 
 BYD ekranında hangi uygulamalar yerleşik, hangileri kurulur; Google Maps'i göstergeye almak, şarjda YouTube izlemek.

@@ -53,6 +53,10 @@ BYD'de gösterge ve araç bilgisi ekranında görünür. Yoldaş'la ana ekrandak
 
 BYD'nin kendi kayıt cihazı hangi modelde var, 360° kameralar neden kaydetmiyor ve ek dashcam almadan dört kamerayla kayıt.
 
+### [BYD için en iyi uygulamalar](https://yoldas.io/rehber/byd-icin-en-iyi-uygulamalar)
+
+Harita, müzik, video, dashcam ve telefondan kontrol için BYD ekranında işe yarayan uygulamalar.
+
 ### [BYD'de YouTube, Netflix, Google Maps](https://yoldas.io/rehber/byd-youtube-netflix-google-maps)
 
 BYD ekranında hangi uygulamalar yerleşik, hangileri kurulur; Google Maps'i göstergeye almak, şarjda YouTube izlemek.

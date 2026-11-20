@@ -72,6 +72,10 @@ Yoldaş ekranı iki ya da üç bölmeye ayırır: bir yanda Google Maps, öbür 
 
 BYD'nin kendi kayıt cihazı hangi modelde var, 360° kameralar neden kaydetmiyor ve ek dashcam almadan dört kamerayla kayıt.
 
+### [BYD için en iyi uygulamalar](https://yoldas.io/rehber/byd-icin-en-iyi-uygulamalar)
+
+Harita, müzik, video, dashcam ve telefondan kontrol için BYD ekranında işe yarayan uygulamalar.
+
 ### [BYD CarPlay ve Android Auto](https://yoldas.io/rehber/byd-carplay-android-auto)
 
 Hangi BYD'de kablolu ya da kablosuz, nasıl bağlanır ve CarPlay haritasını direksiyonun arkasındaki göstergeye almak.

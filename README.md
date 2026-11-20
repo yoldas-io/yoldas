@@ -27,6 +27,7 @@ Get the latest APK from [Releases](https://github.com/yoldas-io/yoldas/releases/
 ## Guides
 
 - [Do BYD cameras record?](docs/does-byd-record-dashcam.md)
+- [Best apps for BYD](docs/best-apps-for-byd.md)
 - [YouTube, Netflix, Google Maps on a BYD](docs/byd-youtube-netflix-google-maps.md)
 - [BYD CarPlay and Android Auto](docs/byd-carplay-android-auto.md)
 - [Does BYD have sentry mode?](docs/does-byd-have-sentry-mode.md)

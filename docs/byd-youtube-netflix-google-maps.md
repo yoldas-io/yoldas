@@ -72,6 +72,10 @@ Yoldaş splits the screen into two or three panes: Google Maps on one side, Spot
 
 Which models have BYD's own recorder, why the 360° cameras don't record, and recording with all four cameras without buying a dashcam.
 
+### [Best apps for BYD](https://yoldas.io/en/guides/best-apps-for-byd)
+
+Apps that are useful on the BYD screen for maps, music, video, dashcam and control from your phone.
+
 ### [BYD CarPlay and Android Auto](https://yoldas.io/en/guides/byd-carplay-android-auto)
 
 Which BYDs connect wired or wireless, how to connect, and putting the CarPlay map on the cluster behind the steering wheel.

@@ -93,6 +93,10 @@ The Yoldaş phone app is independent of BYD's servers; it talks to Yoldaş in yo
 
 Which models have BYD's own recorder, why the 360° cameras don't record, and recording with all four cameras without buying a dashcam.
 
+### [Best apps for BYD](https://yoldas.io/en/guides/best-apps-for-byd)
+
+Apps that are useful on the BYD screen for maps, music, video, dashcam and control from your phone.
+
 ### [YouTube, Netflix, Google Maps on a BYD](https://yoldas.io/en/guides/byd-youtube-netflix-google-maps)
 
 Which apps are built into the BYD screen and which you install; Google Maps on the instrument cluster, YouTube while charging.

@@ -27,6 +27,7 @@ Son APK'yı [Sürümler](https://github.com/yoldas-io/yoldas/releases/latest) b�
 ## Rehberler
 
 - [BYD kameraları kayıt yapıyor mu?](docs/byd-kamera-kayit-yapiyor-mu.md)
+- [BYD için en iyi uygulamalar](docs/byd-icin-en-iyi-uygulamalar.md)
 - [BYD'de YouTube, Netflix, Google Maps](docs/byd-youtube-netflix-google-maps.tr.md)
 - [BYD CarPlay ve Android Auto](docs/byd-carplay-android-auto.tr.md)
 - [BYD'de nöbetçi modu var mı?](docs/byd-nobetci-modu-var-mi.md)
