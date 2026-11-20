@@ -24,6 +24,13 @@ Son APK'yı [Sürümler](https://github.com/yoldas-io/yoldas/releases/latest) b�
 2. Aracın dosya yöneticisinde açıp **Yükle**ye dokunun. Yükle düğmesi yoksa bilgisayardan ADB ile kurun ([kurulum rehberi](https://yoldas.io/byd-uygulama-yukleme)).
 3. Yoldaş'ı açın; telefonda **app.yoldas.io** adresini açıp araç ekranındaki karekodu okutarak eşleyin.
 
+## Rehberler
+
+- [BYD'ye APK yüklenmiyor: nedenleri ve çözümleri](docs/byd-apk-yuklenmiyor.md)
+- [Sealion 7 ve DiLink 5'e uygulama kurma](docs/sealion-7-dilink-5-uygulama-kurma.md)
+- [BYD güncellemesi: yüklü uygulamalar ne olur?](docs/byd-yazilim-guncellemesi.md)
+- [Kurulum](docs/kurulum.md)
+
 ## Ekran görüntüleri
 
 <img src="assets/home.webp" width="860" alt="home">

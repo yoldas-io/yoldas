@@ -92,6 +92,14 @@ No. Yoldaş downloads and installs its own new versions and does not touch the c
 
 How to find your DiLink generation and software version, and what the first digits of the version decide in Yoldaş.
 
+### [APK not installing on a BYD](https://yoldas.io/en/guides/byd-apk-not-installing)
+
+What the error messages mean, what changed in versions after 2310 and how apps get installed on a locked screen.
+
+### [Installing on Sealion 7 and DiLink 5](https://yoldas.io/en/guides/sealion-7-dilink-5-install-apps)
+
+How to recognize DiLink 5, the two install paths BYD owners use and the settings to turn on after installing.
+
 ### [Installing an APK on a BYD from a USB stick](https://yoldas.io/en/guides/install-apk-byd-usb)
 
 Copy the APK to a USB stick on your computer and open it on the car screen. Step by step, with the permission prompt and common problems.

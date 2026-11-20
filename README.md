@@ -24,6 +24,13 @@ Get the latest APK from [Releases](https://github.com/yoldas-io/yoldas/releases/
 2. Open it in the car's file manager and tap **Install**. If there is no Install button, use ADB from a computer ([installation guide](https://yoldas.io/en/install)).
 3. Open Yoldaş, then pair your phone at **app.yoldas.io** by scanning the QR code on the car screen.
 
+## Guides
+
+- [BYD APK not installing: causes and fixes](docs/byd-apk-not-installing.md)
+- [Install apps on Sealion 7 and DiLink 5](docs/sealion-7-dilink-5-install-apps.md)
+- [BYD software update: what happens to your apps](docs/byd-software-update.md)
+- [Installation](docs/install.md)
+
 ## Screenshots
 
 <img src="assets/home.webp" width="860" alt="home">
