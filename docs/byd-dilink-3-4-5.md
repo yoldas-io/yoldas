@@ -1,146 +1,146 @@
-# BYD DiLink 3, 4 ve 5 nedir? Hangi modelde hangi sürüm?
+# What are BYD DiLink 3, 4 and 5? Which version is on which model?
 
-DiLink, BYD'nin araç ekranındaki Android tabanlı platformun adıdır. "3", "4" ve "5" bu platformun nesilleridir. Bu rehber nesillerin ne anlama geldiğini, sürümünüzü nasıl öğreneceğinizi ve Yoldaş'ın sürüm numarasına göre ne yaptığını kaynaklarıyla anlatır.
+DiLink is the name of the Android-based platform on BYD's car screen. "3", "4" and "5" are generations of this platform. This guide explains what the generations mean, how to find your version and what Yoldaş does depending on the version number, with sources.
 
-Son güncelleme: 19 Kasım 2026
+Last updated: November 19, 2026
 
-## Önce bilmeniz gereken: model adı sürümü kesin belirlemez
+## First, know this: the model name does not settle the version
 
-BYD, resmî DiLink destek sayfasında nesil ve model eşleşmesini veren bir tablo yayımlamıyor; sayfa yalnız platformun genel özelliklerini ve DiLink'li modelleri sayıyor. Topluluk kaynakları da aynı model için üretim yılına göre farklı nesiller listeliyor. Bu yüzden bu rehber model adına bakıp "şu modelde şu sürüm vardır" demez. Doğru yol, aracınızın kendi yazılım sürümünü okumaktır; aşağıda nasıl yapıldığını bulursunuz. Her modelin kendi sayfasında ise Yoldaş'ın o model için bildiği platform ve ekran bilgisi yer alır.
+BYD's official DiLink support page does not publish a table matching generations to models; the page only lists the platform's general features and the models that have DiLink. Community sources also list different generations for the same model depending on production year. So this guide does not look at a model name and say "this model has this version". The right way is to read your own car's software version, and you will find how below. Each model's own page has the platform and screen information Yoldaş has for that model.
 
-## DiLink nedir?
+## What is DiLink?
 
-DiLink, BYD araçlarındaki dokunmatik multimedya ekranının yazılım platformudur. Android üzerine kuruludur; araç ayarları, uygulamalar, kamera görüntüleri ve BYD'nin bulut hizmetleri bu platformdan geçer. BYD'nin kendi destek sayfası platformu Android tabanlı akıllı sistem, bölünebilen uygulama ekranı, açık ve koyu tema ile bulut üzerinden araç kontrolü gibi başlıklarla tanıtır. Yoldaş da bu ekrana kurulan bir Android uygulamasıdır.
+DiLink is the software platform of the touchscreen multimedia display in BYD cars. It is built on Android; car settings, apps, camera views and BYD's cloud services all go through this platform. BYD's own support page presents the platform under headings such as an Android-based smart system, a split-screen app view, light and dark themes and vehicle control over the cloud. Yoldaş is also an Android app that is installed on this screen.
 
-## 3, 4 ve 5: nesiller
+## 3, 4 and 5: the generations
 
-Bir topluluk tablosuna göre nesiller şöyle ayrılıyor. Resmî bir tablo olmadığı için bunu kesin değil, yön gösterici olarak okuyun.
-NesilAndroid sürümüArayüz sürümü DiLink 3.0Android 104.0 ve 5.0 DiLink 4.0Android 104.0 DiLink 5.0Android 12L5.0
+According to a community table, the generations break down as follows. Because there is no official table, read this as a guide to the direction rather than as an exact answer.
+GenerationAndroid versionInterface version DiLink 3.0Android 104.0 and 5.0 DiLink 4.0Android 104.0 DiLink 5.0Android 12L5.0
 
-Tabloda 3.0 ve 4.0'ın aynı Android sürümünü kullanması dikkat çekicidir: iki nesil arasındaki fark çoğunlukla arayüz ve işlemcidedir. Yoldaş nesil adına değil yazılım sürümünün başına bakar: 13 ile başlayanı DiLink 3, 51 ile başlayanı DiLink 5 olarak tanır. DiLink 4 için ayrı bir yol yoktur.
+It is worth noticing that 3.0 and 4.0 use the same Android version in the table: the difference between the two generations is mostly in the interface and the processor. Yoldaş looks not at the generation name but at the beginning of the software version: a version starting with 13 is recognized as DiLink 3, and one starting with 51 as DiLink 5. There is no separate path for DiLink 4.
 
-## Sürümünüzü nasıl öğrenirsiniz?
+## How do you find your version?
 
-İki ayrı numara vardır ve sık karıştırılır:
+There are two separate numbers, and they are often confused:
 
-- **Nesil (3, 4, 5):** BYD'nin platform adı. Aracın ekranında çoğu zaman yazmaz.
-- **Yazılım sürümü:** araç ayarlarının sistem bilgisi bölümünde yazan uzun numara. Örnek biçim: `13.1.33.2606100.1`. İlk basamaklar platform grubunu gösterir; son basamaklar yapım tarihini ve sürüm sırasını taşır.
+- **Generation (3, 4, 5):** BYD's name for the platform. It is often not written anywhere on the car's screen.
+- **Software version:** the long number in the system information section of the car settings. Example format: `13.1.33.2606100.1`. The first digits show the platform group; the last digits carry the build date and the release order.
 
-Yoldaş'ın kurulum rehberi de önce yazılım sürümünüzü öğrenmenizi ister: [BYD'ye uygulama yükleme](https://yoldas.io/byd-uygulama-yukleme). Yoldaş kuruluysa **Sistem › Tanılama ve kayıt** bölümündeki Uyumluluk raporu platformu, yazılım sürümünü ve ekran bilgilerini tek yerde toplar. Rapor şasi numarası, seri numarası ya da konum içermez.
+Yoldaş's install guide also asks you to find your software version first: [Install apps on a BYD](https://yoldas.io/en/install). If Yoldaş is installed, the Compatibility report under **System › Diagnostics and logging** gathers the platform, the software version and the screen details in one place. The report contains no VIN, serial number or location.
 
-## Sürüm numarasının ilk basamakları Yoldaş'ta neyi belirler?
+## What do the first digits of the version number decide in Yoldaş?
 
-Yoldaş platformu önce yazılım sürümünün başına bakarak belirler. Gözlenen örnekler:
+Yoldaş decides the platform first by looking at the beginning of the software version. Observed examples:
 
-- **13.1.33 ile başlayan:** Yoldaş'ın geliştirildiği BYD Seal'de okunan grup (13.1.33.2606100.1).
-- **13.1.32 ile başlayan:** Dolphin için yayımlanmış bir teknik incelemede bu grup görülür (13.1.32.2507250.1). Atto 3 ve Dolphin sahipleri çoğunlukla bu gruptadır.
-- **51 ile başlayan:** Yoldaş bunu DiLink 5 olarak tanır ve DiLink 5 yolunu kullanır. Sealion 7 ve yeni üretim bazı modeller bu platformdadır.
-Sürüm numarasıKamera, dashcam, nöbetçiCam ve diğer uzaktan komutlarKadrana aktarım 13 ile başlıyor (DiLink 3)VarVarVar 51 ile başlıyor (DiLink 5)VarVarVar
+- **Starting with 13.1.33:** the group read on the BYD Seal that Yoldaş is developed on (13.1.33.2606100.1).
+- **Starting with 13.1.32:** this group appears in a published technical study of the Dolphin (13.1.32.2507250.1). Atto 3 and Dolphin owners are mostly in this group.
+- **Starting with 51:** Yoldaş recognizes this as DiLink 5 and uses the DiLink 5 path. The Sealion 7 and some newer cars are on this platform.
+Version numberCameras, dashcam, Sentry ModeWindow and other remote commandsCluster display Starts with 13 (DiLink 3)YesYesYes Starts with 51 (DiLink 5)YesYesYes
 
-Özellikler aracın donanımına ve yazılım sürümüne göre küçük farklar gösterebilir. Bir şey beklediğiniz gibi çalışmazsa bize yazın.
+Features can differ slightly with the car's hardware and software version. If something does not work as you expect, write to us.
 
-## Modelinize göre ayrıntı
+## Details for your model
 
-Platform, yazılım grubu, ekran ve desteklenen özellikler her model sayfasında ayrı yazılıdır:
+The platform, software group, screen and supported features are written separately on each model page:
 
-- [BYD Seal](https://yoldas.io/byd-seal), [Seal U EV](https://yoldas.io/byd-seal-u-ev) ve [Seal U DM-i](https://yoldas.io/byd-seal-u-dm-i)
-- [Atto 3](https://yoldas.io/byd-atto-3), [Atto 2](https://yoldas.io/byd-atto-2) ve [Dolphin](https://yoldas.io/byd-dolphin)
-- [Han](https://yoldas.io/byd-han) ve [Tang](https://yoldas.io/byd-tang)
-- [Sealion 7](https://yoldas.io/byd-sealion-7)
+- [BYD Seal](https://yoldas.io/en/byd-seal), [Seal U EV](https://yoldas.io/en/byd-seal-u-ev) and [Seal U DM-i](https://yoldas.io/en/byd-seal-u-dm-i)
+- [Atto 3](https://yoldas.io/en/byd-atto-3), [Atto 2](https://yoldas.io/en/byd-atto-2) and [Dolphin](https://yoldas.io/en/byd-dolphin)
+- [Han](https://yoldas.io/en/byd-han) and [Tang](https://yoldas.io/en/byd-tang)
+- [Sealion 7](https://yoldas.io/en/byd-sealion-7)
 
-Kadran özelliğinin ne yaptığı için [Kadrana aktarım](https://yoldas.io/ozellikler/kadrana-harita) sayfasına bakın. Uygulamayı kurmaya hazırsanız [USB bellekle yükleme rehberi](https://yoldas.io/rehber/byd-usb-ile-apk-yukleme) ve [indirme sayfası](https://yoldas.io/indir) sıradaki adımdır.
+To see what the cluster feature does, see the [Cluster display](https://yoldas.io/en/cluster-display) page. If you are ready to install the app, the [guide to installing from a USB stick](https://yoldas.io/en/guides/install-apk-byd-usb) and the [download page](https://yoldas.io/en/download) are the next steps.
 
-## Kaynaklar
+## Sources
 
-- BYD resmî DiLink destek sayfası (platform tanıtımı; nesil tablosu içermez): [byd.com/en-ma/support/dilink](https://www.byd.com/en-ma/support/dilink)
-- DiLink nesilleri için topluluk tablosu (Android ve arayüz sürümleri): [bydhack.com/en/systems](https://bydhack.com/en/systems)
-- Dolphin multimedya ünitesi teknik incelemesi (DiLink 3.0, Android 10, yazılım sürümü örneği): [github.com/wheregoes/byd-dolphin-hacking](https://github.com/wheregoes/byd-dolphin-hacking)
-- Yoldaş'ın geliştirme aracından alınan ölçümler (Seal, yazılım 13.1.33.2606100.1).
+- BYD's official DiLink support page (platform overview; no generation table): [byd.com/en-ma/support/dilink](https://www.byd.com/en-ma/support/dilink)
+- A community table of DiLink generations (Android and interface versions): [bydhack.com/en/systems](https://bydhack.com/en/systems)
+- A technical study of the Dolphin multimedia unit (DiLink 3.0, Android 10, an example software version): [github.com/wheregoes/byd-dolphin-hacking](https://github.com/wheregoes/byd-dolphin-hacking)
+- Measurements taken from Yoldaş's development car (Seal, software 13.1.33.2606100.1).
 
-## Sık sorulan sorular
+## Frequently asked questions
 
-### DiLink 3, 4 ve 5 aynı şey mi?
+### Are DiLink 3, 4 and 5 the same thing?
 
-Hayır. Üçü de BYD'nin Android tabanlı multimedya platformunun nesilleridir. Nesil numarası arayüzü, Android sürümünü ve işlemciyi etkiler. Aynı model adı üretim yılına ve pazara göre farklı nesille gelebilir; bu yüzden kesin bilgi aracınızın kendi sistem bilgisindedir.
+No. All three are generations of BYD's Android-based multimedia platform. The generation number affects the interface, the Android version and the processor. The same model name can come with a different generation depending on production year and market, so the exact answer is in your car's own system information.
 
-### BYD'mde DiLink sürümünü nereden görürüm?
+### Where do I see the DiLink version on my BYD?
 
-Araç ayarlarının sistem bilgisi bölümünde multimedya yazılım sürümü yazar (ör. 13.1.33.2606100.1 biçiminde). Menü adları modele ve yazılıma göre değişebilir. Yoldaş'ta Sistem › Tanılama ve kayıt bölümündeki Uyumluluk raporu da platformu ve yazılım sürümünü gösterir.
+The multimedia software version is listed in the system information section of the car settings (for example in the form 13.1.33.2606100.1). Menu names can differ by model and software. In Yoldaş, the Compatibility report under System › Diagnostics and logging also shows the platform and the software version.
 
-### Yazılım sürümüm 13 ile başlıyor. Yoldaş çalışır mı?
+### My software version starts with 13. Will Yoldaş work?
 
-Evet. 13 ile başlayan sürümlerde Yoldaş DiLink 3 yolunu kullanır: kameralar, dashcam, nöbetçi, kadrana aktarım ve telefondan kontrol çalışır.
+Yes. On versions starting with 13, Yoldaş uses the DiLink 3 path: cameras, dashcam, Sentry Mode, cluster display and phone control all work.
 
-### Yazılım sürümüm 51 ile başlıyor. Ne olur?
+### My software version starts with 51. What happens?
 
-Yoldaş bu sürümü DiLink 5 olarak tanır ve DiLink 5 yolunu kullanır. Kameralar, dashcam, nöbetçi, kadrana aktarım ve telefondan kontrol bu platformda da çalışır.
+Yoldaş recognizes this version as DiLink 5 and uses the DiLink 5 path. Cameras, dashcam, Sentry Mode, cluster display and phone control work on this platform too.
 
-## Diğer rehberler
+## Other guides
 
-### [BYD kameraları kayıt yapıyor mu?](https://yoldas.io/rehber/byd-kamera-kayit-yapiyor-mu)
+### [Do BYD cameras record?](https://yoldas.io/en/guides/does-byd-record-dashcam)
 
-BYD'nin kendi kayıt cihazı hangi modelde var, 360° kameralar neden kaydetmiyor ve ek dashcam almadan dört kamerayla kayıt.
+Which models have BYD's own recorder, why the 360° cameras don't record, and recording with all four cameras without buying a dashcam.
 
-### [BYD'de YouTube, Netflix, Google Maps](https://yoldas.io/rehber/byd-youtube-netflix-google-maps)
+### [YouTube, Netflix, Google Maps on a BYD](https://yoldas.io/en/guides/byd-youtube-netflix-google-maps)
 
-BYD ekranında hangi uygulamalar yerleşik, hangileri kurulur; Google Maps'i göstergeye almak, şarjda YouTube izlemek.
+Which apps are built into the BYD screen and which you install; Google Maps on the instrument cluster, YouTube while charging.
 
-### [BYD CarPlay ve Android Auto](https://yoldas.io/rehber/byd-carplay-android-auto)
+### [BYD CarPlay and Android Auto](https://yoldas.io/en/guides/byd-carplay-android-auto)
 
-Hangi BYD'de kablolu ya da kablosuz, nasıl bağlanır ve CarPlay haritasını direksiyonun arkasındaki göstergeye almak.
+Which BYDs connect wired or wireless, how to connect, and putting the CarPlay map on the cluster behind the steering wheel.
 
-### [BYD'de nöbetçi modu var mı?](https://yoldas.io/rehber/byd-nobetci-modu-var-mi)
+### [Does BYD have sentry mode?](https://yoldas.io/en/guides/does-byd-have-sentry-mode)
 
-BYD'nin kendi nöbetçi modu hangi pazarda var, hangisinde yok; park hâlindeki aracı Yoldaş'la izlemek.
+Which markets have BYD's own sentry mode and which don't; watching your parked car with Yoldaş.
 
-### [BYD'ye APK yüklenmiyor](https://yoldas.io/rehber/byd-apk-yuklenmiyor)
+### [APK not installing on a BYD](https://yoldas.io/en/guides/byd-apk-not-installing)
 
-Hata mesajları ne anlama gelir, 2310 sonrası sürümlerde ne değişti ve kilitli ekrana uygulama nasıl kuruluyor.
+What the error messages mean, what changed in versions after 2310 and how apps get installed on a locked screen.
 
-### [BYD güncellemesinden önce ve sonra](https://yoldas.io/rehber/byd-yazilim-guncellemesi)
+### [Before and after a BYD update](https://yoldas.io/en/guides/byd-software-update)
 
-BYD güncellemesi gelince yüklü uygulamalara ne olabilir, kurmadan önce neyi kaydetmelisiniz, sonra Yoldaş'ı nasıl geri getirirsiniz.
+What a BYD update can do to installed apps, what to save before you install it and how to bring Yoldaş back afterwards.
 
-### [BYD 360 kamera](https://yoldas.io/rehber/byd-360-kamera)
+### [BYD 360 camera](https://yoldas.io/en/guides/byd-360-camera)
 
-360° kamerayı açmanın yolları, şeffaf şasi görünümü ve dört kamerayı telefondan canlı izlemek, kaydetmek.
+Ways to open the 360° camera, the transparent chassis view, and watching and recording all four cameras from your phone.
 
-### [BYD 12 V akü bitti](https://yoldas.io/rehber/byd-12v-aku)
+### [BYD 12 V battery dead](https://yoldas.io/en/guides/byd-12v-battery)
 
-12 V akü bitince ne olur, nasıl açılır, BYD aküyü ne zaman kendisi şarj eder ve voltajı her an izlemek.
+What happens when the 12 V battery dies, how to get in, when BYD charges it on its own, and keeping an eye on the voltage.
 
-### [BYD lastik basıncı](https://yoldas.io/rehber/byd-lastik-basinci)
+### [BYD tyre pressure](https://yoldas.io/en/guides/byd-tyre-pressure)
 
-Model model önerilen soğuk lastik basınçları (bar, kPa, psi) ve basıncı ekranda ya da telefonda görmenin yolu.
+Recommended cold tyre pressures model by model (bar, kPa, psi) and how to see the pressure on the screen or on your phone.
 
-### [BYD uygulaması bağlanmıyor](https://yoldas.io/rehber/byd-uygulamasi-baglanmiyor)
+### [BYD app not connecting](https://yoldas.io/en/guides/byd-app-not-connecting)
 
-Resmî BYD uygulamasında araç ekleme, bağlantı ve servis hatalarına karşı denenecekler; BYD'den bağımsız telefon uygulaması.
+What to try against car-adding, connection and service errors in the official BYD app; a phone app independent of BYD.
 
-### [Sealion 7 ve DiLink 5'e kurulum](https://yoldas.io/rehber/sealion-7-dilink-5-uygulama-kurma)
+### [Installing on Sealion 7 and DiLink 5](https://yoldas.io/en/guides/sealion-7-dilink-5-install-apps)
 
-DiLink 5'i nasıl tanırsınız, BYD sahiplerinin kullandığı iki kurulum yolu ve kurulumdan sonra açılması gereken ayarlar.
+How to recognize DiLink 5, the two install paths BYD owners use and the settings to turn on after installing.
 
-### [BYD ekran döndürme](https://yoldas.io/rehber/byd-ekran-dondurme)
+### [BYD screen rotation](https://yoldas.io/en/guides/byd-screen-rotation)
 
-Döner ekranı yatay ve dikeye almanın yolları, hangi modellerde ekran döner ve direksiyonda tuşu olmayan araçlar için kısayol.
+Ways to turn the rotating screen to landscape and portrait, which models have a rotating screen, and a shortcut for cars with no steering wheel button.
 
-### [BYD'ye USB bellekle APK yükleme](https://yoldas.io/rehber/byd-usb-ile-apk-yukleme)
+### [Installing an APK on a BYD from a USB stick](https://yoldas.io/en/guides/install-apk-byd-usb)
 
-APK'yı bilgisayarda USB belleğe kopyalayıp araç ekranında açın. Adım adım, izin sorusu ve sık sorunlarla.
+Copy the APK to a USB stick on your computer and open it on the car screen. Step by step, with the permission prompt and common problems.
 
-### [APK dosyasının SHA-256 özeti nasıl doğrulanır?](https://yoldas.io/rehber/apk-sha256-dogrulama)
+### [How to verify an APK's SHA-256 hash](https://yoldas.io/en/guides/verify-apk-sha256)
 
-İndirdiğiniz APK'nın özetini bilgisayarda hesaplayıp indirme sayfasındaki değerle karşılaştırın.
+Calculate the hash of the APK you downloaded on your computer and compare it with the value on the download page.
 
-### [BYD için araç uygulaması nasıl seçilir?](https://yoldas.io/rehber/byd-icin-arac-uygulamasi-secimi)
+### [How to choose a car app for your BYD](https://yoldas.io/en/guides/choose-car-app-byd)
 
-Kayıt güvenilirliği, verinin nerede durduğu, dil, kurulum ve güncelleme imzası için kontrol listesi.
+A checklist for recording reliability, where data stays, language, installation and update signing.
 
-### [Otomasyonlar: ne işe yarar, nasıl kullanılır](https://yoldas.io/rehber/otomasyonlar-nasil-kullanilir)
+### [Automations: what they do and how to use them](https://yoldas.io/en/guides/how-to-use-automations)
 
-Tetik, koşul ve adımların ne demek olduğunu, ilk otomasyonun nasıl kurulacağını ve dosyadan nasıl alınacağını öğrenin.
+Learn what triggers, conditions and steps mean, how to set up your first automation and how to import one from a file.
 
-### [Şarj fiyatı ve yolculuk maliyeti](https://yoldas.io/rehber/sarj-fiyati-ve-yolculuk-maliyeti)
+### [Charging price and trip cost](https://yoldas.io/en/guides/charging-price-and-trip-cost)
 
-Her şarja kendi fiyatını girin, yolculuk maliyetini şarj fiyatlarınıza göre görün.
+Enter a price for each charge and see trip cost based on what you actually paid.

@@ -1,139 +1,139 @@
-# BYD CarPlay ve Android Auto: kablosuz bağlantı ve göstergede harita
+# BYD CarPlay and Android Auto: wireless connection and the map on the cluster
 
-**Kısa cevap:** çoğu yeni BYD'de Apple CarPlay ve Android Auto var, birçoğunda kablosuz. Ama BYD bunları yalnız orta ekranda gösterir. Yoldaş'la CarPlay ya da Android Auto haritasını direksiyonun arkasındaki göstergeye alır, orta ekranı bölüp yanına müzik ya da Yoldaş ana ekranını koyarsınız.
+**Short answer:** most new BYDs have Apple CarPlay and Android Auto, many of them wireless. But BYD shows them only on the centre screen. With Yoldaş you bring the CarPlay or Android Auto map to the cluster behind the steering wheel, and split the centre screen to put music or the Yoldaş home screen next to it.
 
-Son güncelleme: 20 Kasım 2026
+Last updated: November 20, 2026
 
-## Hangi BYD'de CarPlay ve Android Auto var?
+## Which BYDs have CarPlay and Android Auto?
 
-- **Atto 3, Seal, Dolphin:** önce kablolu geldi; Avustralya'da Temmuz 2024 güncellemesiyle kablosuz CarPlay eklendi. Android Auto kablolu ve kablosuz.
-- **Dolphin Surf, Seal U DM-i, Atto 2 DM-i:** İngiltere'deki incelemelere göre kablosuz CarPlay ve Android Auto standart.
-- **Sealion 7:** BYD kılavuzunda kablolu ve kablosuz bağlantı anlatılıyor.
-- **Türkiye:** BYD'nin Temmuz 2025 uzaktan güncellemesi Seal U, Atto 3 ve Dolphin'de CarPlay ve Android Auto uyumluluğunu iyileştirdi.
+- **Atto 3, Seal, Dolphin:** wired at first; in Australia, wireless CarPlay was added with the July 2024 update. Android Auto wired and wireless.
+- **Dolphin Surf, Seal U DM-i, Atto 2 DM-i:** according to reviews in the UK, wireless CarPlay and Android Auto are standard.
+- **Sealion 7:** BYD's manual describes both wired and wireless connection.
+- **Turkey:** BYD's July 2025 over-the-air update improved CarPlay and Android Auto compatibility on the Seal U, Atto 3 and Dolphin.
 
-Aynı model, pazara ve yazılım sürümüne göre farklı olabilir; aracınızdaki uygulamalar ekranında CarPlay ve Android Auto simgelerine bakın.
+The same model can differ by market and software version; look for the CarPlay and Android Auto icons on your car's apps screen.
 
-## Nasıl bağlanır?
+## How to connect
 
-1. **Aracı P'de tutun**
+1. **Keep the car in P**
 
-Kurulumu araç park hâlindeyken bitirin.
-2. **Kablolu bağlantı**
+Finish the setup while the car is parked.
+2. **Wired connection**
 
-Telefonu veri aktaran bir USB girişine, sertifikalı bir kabloyla takın.
-3. **Kablosuz bağlantı**
+Plug the phone into a USB port that carries data, using a certified cable.
+3. **Wireless connection**
 
-Uygulamalar ekranında CarPlay ya da Android Auto simgesine dokunun, telefonu ekrandaki adımlarla eşleyin. İlk kablolu bağlantıdan sonra sonraki seferlerde kendiliğinden kablosuz bağlanır.
-4. **BYD ekranına dönüş**
+Tap the CarPlay or Android Auto icon on the apps screen and pair the phone by following the steps on the screen. After the first wired connection, it connects wirelessly on its own from then on.
+4. **Back to the BYD screen**
 
-BYD simgesine dokunun. Android Auto ilk bağlantıda telefonda güncelleme isteyebilir.
+Tap the BYD icon. Android Auto may ask for an update on the phone the first time it connects.
 
-Kablosuz CarPlay aracın Wi-Fi erişim noktası üzerinden çalışır; erişim noktasını kapatırsanız bağlantı kesilir. CarPlay ve Android Auto yalnız yatay ekranda çalışır.
+Wireless CarPlay works through the car's Wi-Fi hotspot; if you turn the hotspot off, the connection is cut. CarPlay and Android Auto work only on a landscape screen.
 
-## CarPlay haritası direksiyonun arkasında
+## The CarPlay map behind the steering wheel
 
-BYD'de CarPlay açıkken göstergede yalnız BYD'nin kendi bilgileri durur; navigasyon için başınızı orta ekrana çevirirsiniz. Yoldaş, CarPlay ya da Android Auto haritasını göstergeye alır: tam ekran ya da hızın yanında bir bölge olarak. BYD'nin göstergedeki şeridi ve yazıları aktarımda gizlenir, kadran temiz kalır.
-**CarPlay haritanız göstergede**
+On a BYD, while CarPlay is on, the cluster shows only BYD's own information; for navigation you turn your head to the centre screen. Yoldaş brings the CarPlay or Android Auto map to the cluster: full screen or as an area next to the speed. BYD's strip and text on the cluster are hidden while it is shown, so the cluster stays clean.
+**Your CarPlay map on the cluster**
 
-Yoldaş'ı kurun, Sürücü göstergesi sayfasından CarPlay ya da Android Auto'yu seçin. Ayrıca orta ekranı bölüp CarPlay'in yanına müzik ya da 3B aracınızı koyabilirsiniz.
+Install Yoldaş and choose CarPlay or Android Auto on the Driver display page. You can also split the centre screen and put music or your 3D car next to CarPlay.
 
-[Yoldaş'ı indir](https://yoldas.io/indir/yoldas-arac-321.apk) [Göstergede CarPlay](https://yoldas.io/ozellikler/kadrana-harita)
+[Download Yoldaş](https://yoldas.io/indir/yoldas-arac-321.apk) [CarPlay on the cluster](https://yoldas.io/en/cluster-display)
 
-## Orta ekranda CarPlay ve yanında başka bir şey
+## CarPlay on the centre screen, with something else beside it
 
-Yoldaş orta ekranı iki ya da üç bölmeye ayırır: bir bölmede CarPlay ya da Android Auto, yanında müzik kartı, Yoldaş ana ekranı ya da yolda giden aracınızı gösteren Yolda sahnesi. Ayrıntılar [ekran bölme](https://yoldas.io/ozellikler/ekran-bolme) sayfasında. Google Maps, Waze ve Spotify için [BYD'de YouTube, Netflix, Google Maps](https://yoldas.io/rehber/byd-youtube-netflix-google-maps) rehberine bakın.
+Yoldaş splits the centre screen into two or three panes: CarPlay or Android Auto in one pane, and next to it the music card, the Yoldaş home screen or the On the road scene, which shows your car on the road. Details are on the [split screen](https://yoldas.io/en/split-screen) page. For Google Maps, Waze and Spotify, see the [YouTube, Netflix, Google Maps on a BYD](https://yoldas.io/en/guides/byd-youtube-netflix-google-maps) guide.
 
-## Kaynaklar
+## Sources
 
-- BYD Seal kullanım kılavuzu (Avustralya, 2025), CarPlay ve Android Auto: [bydautomotive.com.au](https://bydautomotive.com.au/brochures/BYD-SEAL-Owners-Handbook-2025.pdf)
-- BYD Atto 2 DM-i kullanım kılavuzu (Avustralya): [bydautomotive.com.au](https://bydautomotive.com.au/brochures/BYD-ATTO-2-DM-i-Owners-Handbook.pdf)
-- Atto 3, Seal ve Dolphin'e kablosuz CarPlay (Temmuz 2024): [carexpert.com.au](https://carexpert.com.au/car-news/byd-atto-3-seal-dolphin-gain-wireless-apple-carplay)
-- BYD Türkiye uzaktan güncellemesi (Temmuz 2025): [teknoblog.com](https://www.teknoblog.com/byd-ota-guncelleme-turkiye-basladi/)
+- BYD Seal owner's handbook (Australia, 2025), CarPlay and Android Auto: [bydautomotive.com.au](https://bydautomotive.com.au/brochures/BYD-SEAL-Owners-Handbook-2025.pdf)
+- BYD Atto 2 DM-i owner's handbook (Australia): [bydautomotive.com.au](https://bydautomotive.com.au/brochures/BYD-ATTO-2-DM-i-Owners-Handbook.pdf)
+- Wireless CarPlay for the Atto 3, Seal and Dolphin (July 2024): [carexpert.com.au](https://carexpert.com.au/car-news/byd-atto-3-seal-dolphin-gain-wireless-apple-carplay)
+- BYD Turkey over-the-air update (July 2025): [teknoblog.com](https://www.teknoblog.com/byd-ota-guncelleme-turkiye-basladi/)
 
-## Sık sorulan sorular
+## Frequently asked questions
 
-### BYD'de kablosuz CarPlay var mı?
+### Does BYD have wireless CarPlay?
 
-Birçok modelde var. Avustralya'da Temmuz 2024 güncellemesiyle Atto 3, Seal ve Dolphin'e kablosuz CarPlay geldi; Dolphin Surf, Seal U DM-i ve Atto 2 DM-i'de kablosuz CarPlay ve Android Auto standart. Türkiye'de Temmuz 2025 güncellemesi CarPlay ve Android Auto uyumluluğunu iyileştirdi; aracınızda kablosuz seçeneği uygulamalar ekranında görünür.
+Many models do. In Australia, wireless CarPlay came to the Atto 3, Seal and Dolphin with the July 2024 update; on the Dolphin Surf, Seal U DM-i and Atto 2 DM-i, wireless CarPlay and Android Auto are standard. In Turkey, the July 2025 update improved CarPlay and Android Auto compatibility; if your car has the wireless option, it appears on the apps screen.
 
-### CarPlay BYD göstergesinde (kadranda) görünür mü?
+### Does CarPlay appear on the BYD instrument cluster?
 
-BYD CarPlay'i yalnız orta ekranda gösterir. Yoldaş, CarPlay ya da Android Auto haritasını direksiyonun arkasındaki göstergeye alır.
+BYD shows CarPlay only on the centre screen. Yoldaş brings the CarPlay or Android Auto map to the cluster behind the steering wheel.
 
-### CarPlay açıkken ekran neden dönmüyor?
+### Why doesn't the screen rotate while CarPlay is on?
 
-BYD'de CarPlay ve Android Auto yalnız yatay ekranda çalışır; döner ekranlı araçlarda ekran yataya döner ya da dikey olmaz.
+On a BYD, CarPlay and Android Auto work only on a landscape screen; on cars with a rotating screen, the screen turns to landscape or will not go to portrait.
 
-### Kablosuz CarPlay neden kopuyor?
+### Why does wireless CarPlay keep dropping?
 
-Kablosuz CarPlay aracın Wi-Fi erişim noktası üzerinden çalışır; erişim noktası kapanırsa bağlantı kesilir. Bağlantı koparsa kendiliğinden yeniden bağlanır; sürmezse telefonu bir kez kabloyla bağlayıp yeniden eşleyin.
+Wireless CarPlay works through the car's Wi-Fi hotspot; if the hotspot turns off, the connection is cut. If the connection drops, it reconnects on its own; if it still will not stay connected, connect the phone once with a cable and pair it again.
 
-## Diğer rehberler
+## Other guides
 
-### [BYD kameraları kayıt yapıyor mu?](https://yoldas.io/rehber/byd-kamera-kayit-yapiyor-mu)
+### [Do BYD cameras record?](https://yoldas.io/en/guides/does-byd-record-dashcam)
 
-BYD'nin kendi kayıt cihazı hangi modelde var, 360° kameralar neden kaydetmiyor ve ek dashcam almadan dört kamerayla kayıt.
+Which models have BYD's own recorder, why the 360° cameras don't record, and recording with all four cameras without buying a dashcam.
 
-### [BYD'de YouTube, Netflix, Google Maps](https://yoldas.io/rehber/byd-youtube-netflix-google-maps)
+### [YouTube, Netflix, Google Maps on a BYD](https://yoldas.io/en/guides/byd-youtube-netflix-google-maps)
 
-BYD ekranında hangi uygulamalar yerleşik, hangileri kurulur; Google Maps'i göstergeye almak, şarjda YouTube izlemek.
+Which apps are built into the BYD screen and which you install; Google Maps on the instrument cluster, YouTube while charging.
 
-### [BYD'de nöbetçi modu var mı?](https://yoldas.io/rehber/byd-nobetci-modu-var-mi)
+### [Does BYD have sentry mode?](https://yoldas.io/en/guides/does-byd-have-sentry-mode)
 
-BYD'nin kendi nöbetçi modu hangi pazarda var, hangisinde yok; park hâlindeki aracı Yoldaş'la izlemek.
+Which markets have BYD's own sentry mode and which don't; watching your parked car with Yoldaş.
 
-### [BYD'ye APK yüklenmiyor](https://yoldas.io/rehber/byd-apk-yuklenmiyor)
+### [APK not installing on a BYD](https://yoldas.io/en/guides/byd-apk-not-installing)
 
-Hata mesajları ne anlama gelir, 2310 sonrası sürümlerde ne değişti ve kilitli ekrana uygulama nasıl kuruluyor.
+What the error messages mean, what changed in versions after 2310 and how apps get installed on a locked screen.
 
-### [BYD güncellemesinden önce ve sonra](https://yoldas.io/rehber/byd-yazilim-guncellemesi)
+### [Before and after a BYD update](https://yoldas.io/en/guides/byd-software-update)
 
-BYD güncellemesi gelince yüklü uygulamalara ne olabilir, kurmadan önce neyi kaydetmelisiniz, sonra Yoldaş'ı nasıl geri getirirsiniz.
+What a BYD update can do to installed apps, what to save before you install it and how to bring Yoldaş back afterwards.
 
-### [BYD 360 kamera](https://yoldas.io/rehber/byd-360-kamera)
+### [BYD 360 camera](https://yoldas.io/en/guides/byd-360-camera)
 
-360° kamerayı açmanın yolları, şeffaf şasi görünümü ve dört kamerayı telefondan canlı izlemek, kaydetmek.
+Ways to open the 360° camera, the transparent chassis view, and watching and recording all four cameras from your phone.
 
-### [BYD 12 V akü bitti](https://yoldas.io/rehber/byd-12v-aku)
+### [BYD 12 V battery dead](https://yoldas.io/en/guides/byd-12v-battery)
 
-12 V akü bitince ne olur, nasıl açılır, BYD aküyü ne zaman kendisi şarj eder ve voltajı her an izlemek.
+What happens when the 12 V battery dies, how to get in, when BYD charges it on its own, and keeping an eye on the voltage.
 
-### [BYD lastik basıncı](https://yoldas.io/rehber/byd-lastik-basinci)
+### [BYD tyre pressure](https://yoldas.io/en/guides/byd-tyre-pressure)
 
-Model model önerilen soğuk lastik basınçları (bar, kPa, psi) ve basıncı ekranda ya da telefonda görmenin yolu.
+Recommended cold tyre pressures model by model (bar, kPa, psi) and how to see the pressure on the screen or on your phone.
 
-### [BYD uygulaması bağlanmıyor](https://yoldas.io/rehber/byd-uygulamasi-baglanmiyor)
+### [BYD app not connecting](https://yoldas.io/en/guides/byd-app-not-connecting)
 
-Resmî BYD uygulamasında araç ekleme, bağlantı ve servis hatalarına karşı denenecekler; BYD'den bağımsız telefon uygulaması.
+What to try against car-adding, connection and service errors in the official BYD app; a phone app independent of BYD.
 
-### [Sealion 7 ve DiLink 5'e kurulum](https://yoldas.io/rehber/sealion-7-dilink-5-uygulama-kurma)
+### [Installing on Sealion 7 and DiLink 5](https://yoldas.io/en/guides/sealion-7-dilink-5-install-apps)
 
-DiLink 5'i nasıl tanırsınız, BYD sahiplerinin kullandığı iki kurulum yolu ve kurulumdan sonra açılması gereken ayarlar.
+How to recognize DiLink 5, the two install paths BYD owners use and the settings to turn on after installing.
 
-### [BYD DiLink 3, 4 ve 5 nedir?](https://yoldas.io/rehber/byd-dilink-3-4-5)
+### [What are BYD DiLink 3, 4 and 5?](https://yoldas.io/en/guides/byd-dilink-3-4-5)
 
-DiLink neslini ve yazılım sürümünüzü nasıl öğrenirsiniz; sürümün ilk basamakları Yoldaş'ta neyi belirler.
+How to find your DiLink generation and software version, and what the first digits of the version decide in Yoldaş.
 
-### [BYD ekran döndürme](https://yoldas.io/rehber/byd-ekran-dondurme)
+### [BYD screen rotation](https://yoldas.io/en/guides/byd-screen-rotation)
 
-Döner ekranı yatay ve dikeye almanın yolları, hangi modellerde ekran döner ve direksiyonda tuşu olmayan araçlar için kısayol.
+Ways to turn the rotating screen to landscape and portrait, which models have a rotating screen, and a shortcut for cars with no steering wheel button.
 
-### [BYD'ye USB bellekle APK yükleme](https://yoldas.io/rehber/byd-usb-ile-apk-yukleme)
+### [Installing an APK on a BYD from a USB stick](https://yoldas.io/en/guides/install-apk-byd-usb)
 
-APK'yı bilgisayarda USB belleğe kopyalayıp araç ekranında açın. Adım adım, izin sorusu ve sık sorunlarla.
+Copy the APK to a USB stick on your computer and open it on the car screen. Step by step, with the permission prompt and common problems.
 
-### [APK dosyasının SHA-256 özeti nasıl doğrulanır?](https://yoldas.io/rehber/apk-sha256-dogrulama)
+### [How to verify an APK's SHA-256 hash](https://yoldas.io/en/guides/verify-apk-sha256)
 
-İndirdiğiniz APK'nın özetini bilgisayarda hesaplayıp indirme sayfasındaki değerle karşılaştırın.
+Calculate the hash of the APK you downloaded on your computer and compare it with the value on the download page.
 
-### [BYD için araç uygulaması nasıl seçilir?](https://yoldas.io/rehber/byd-icin-arac-uygulamasi-secimi)
+### [How to choose a car app for your BYD](https://yoldas.io/en/guides/choose-car-app-byd)
 
-Kayıt güvenilirliği, verinin nerede durduğu, dil, kurulum ve güncelleme imzası için kontrol listesi.
+A checklist for recording reliability, where data stays, language, installation and update signing.
 
-### [Otomasyonlar: ne işe yarar, nasıl kullanılır](https://yoldas.io/rehber/otomasyonlar-nasil-kullanilir)
+### [Automations: what they do and how to use them](https://yoldas.io/en/guides/how-to-use-automations)
 
-Tetik, koşul ve adımların ne demek olduğunu, ilk otomasyonun nasıl kurulacağını ve dosyadan nasıl alınacağını öğrenin.
+Learn what triggers, conditions and steps mean, how to set up your first automation and how to import one from a file.
 
-### [Şarj fiyatı ve yolculuk maliyeti](https://yoldas.io/rehber/sarj-fiyati-ve-yolculuk-maliyeti)
+### [Charging price and trip cost](https://yoldas.io/en/guides/charging-price-and-trip-cost)
 
-Her şarja kendi fiyatını girin, yolculuk maliyetini şarj fiyatlarınıza göre görün.
+Enter a price for each charge and see trip cost based on what you actually paid.
