@@ -109,29 +109,33 @@ The service menu password is tied to the IMEI. Do not give your IMEI to people o
 
 ## Other guides
 
-### [What are BYD DiLink 3, 4 and 5?](https://yoldas.io/en/guides/byd-dilink-3-4-5)
+### [Do BYD cameras record?](https://yoldas.io/en/guides/does-byd-record-dashcam)
 
-How to find your DiLink generation and software version, and what the first digits of the version decide in Yoldaş.
+Which models have BYD's own recorder, why the 360° cameras don't record, and recording with all four cameras without buying a dashcam.
 
-### [Installing on Sealion 7 and DiLink 5](https://yoldas.io/en/guides/sealion-7-dilink-5-install-apps)
+### [YouTube, Netflix, Google Maps on a BYD](https://yoldas.io/en/guides/byd-youtube-netflix-google-maps)
 
-How to recognize DiLink 5, the two install paths BYD owners use and the settings to turn on after installing.
+Which apps are built into the BYD screen and which you install; Google Maps on the instrument cluster, YouTube while charging.
 
-### [Before and after a BYD update](https://yoldas.io/en/guides/byd-software-update)
+### [BYD CarPlay and Android Auto](https://yoldas.io/en/guides/byd-carplay-android-auto)
 
-What a BYD update can do to installed apps, what to save before you install it and how to bring Yoldaş back afterwards.
+Which BYDs connect wired or wireless, how to connect, and putting the CarPlay map on the cluster behind the steering wheel.
 
 ### [Does BYD have sentry mode?](https://yoldas.io/en/guides/does-byd-have-sentry-mode)
 
 Which markets have BYD's own sentry mode and which don't; watching your parked car with Yoldaş.
 
-### [Do BYD cameras record?](https://yoldas.io/en/guides/does-byd-record-dashcam)
+### [Before and after a BYD update](https://yoldas.io/en/guides/byd-software-update)
 
-Which models have BYD's own recorder, why the 360° cameras don't record, and recording with all four cameras without buying a dashcam.
+What a BYD update can do to installed apps, what to save before you install it and how to bring Yoldaş back afterwards.
 
-### [BYD screen rotation](https://yoldas.io/en/guides/byd-screen-rotation)
+### [BYD 360 camera](https://yoldas.io/en/guides/byd-360-camera)
 
-Ways to turn the rotating screen to landscape and portrait, which models have a rotating screen, and a shortcut for cars with no steering wheel button.
+Ways to open the 360° camera, the transparent chassis view, and watching and recording all four cameras from your phone.
+
+### [BYD 12 V battery dead](https://yoldas.io/en/guides/byd-12v-battery)
+
+What happens when the 12 V battery dies, how to get in, when BYD charges it on its own, and keeping an eye on the voltage.
 
 ### [BYD tyre pressure](https://yoldas.io/en/guides/byd-tyre-pressure)
 
@@ -140,6 +144,18 @@ Recommended cold tyre pressures model by model (bar, kPa, psi) and how to see th
 ### [BYD app not connecting](https://yoldas.io/en/guides/byd-app-not-connecting)
 
 What to try against car-adding, connection and service errors in the official BYD app; a phone app independent of BYD.
+
+### [Installing on Sealion 7 and DiLink 5](https://yoldas.io/en/guides/sealion-7-dilink-5-install-apps)
+
+How to recognize DiLink 5, the two install paths BYD owners use and the settings to turn on after installing.
+
+### [What are BYD DiLink 3, 4 and 5?](https://yoldas.io/en/guides/byd-dilink-3-4-5)
+
+How to find your DiLink generation and software version, and what the first digits of the version decide in Yoldaş.
+
+### [BYD screen rotation](https://yoldas.io/en/guides/byd-screen-rotation)
+
+Ways to turn the rotating screen to landscape and portrait, which models have a rotating screen, and a shortcut for cars with no steering wheel button.
 
 ### [Installing an APK on a BYD from a USB stick](https://yoldas.io/en/guides/install-apk-byd-usb)
 
