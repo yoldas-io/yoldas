@@ -3,6 +3,20 @@
 The same notes appear in the app after an update and on [yoldas.io](https://yoldas.io/en/release-notes).
 
 
+## 0.15.29 (2026-11-22)
+
+- **Your own wallpaper.** In Edit › Scene › Background, pick your own picture instead of the studio. The car appears on top of it from behind, or not at all; the picture is stored only on your car.
+- **One tap between Studio and On the road.** The new Scene widget switches to On the road or the studio whenever you like, in P too.
+- **Similar cars.** A new card in My car on the phone compares your car with cars of the same model: battery health, consumption, city and highway range, DC charging and what changed this month.
+- **Battery certificate and monthly report.** Create a printable battery certificate from Similar cars › Battery. Your monthly report arrives in the first week of each month and your year in review in December; you get an early warning when something needs attention.
+- **Steering feel.** Comfort or Sport: a widget on the Home screen, a step in automations and a button in the Driving panel on the phone.
+- **You know when recording stops.** If recording is on but cannot save, the car screen warns you and the phone shows the reason and sends a notification. When the card is full, the oldest Yoldaş recordings on the card are deleted first.
+- **Internet while parked.** If the car's mobile internet drops while parked, the phone tells you why. If BYD's data control is cutting Yoldaş off, you can turn it off on the car in Settings › Phone › Connection.
+- **Front passenger seat in automations.** Whether someone is in the front passenger seat can be used as a trigger and a condition. A flow that was interrupted continues from the step where it stopped.
+- **Cars On the road, smoother screen.** Show surrounding cars as Realistic or Simple. While driving, widgets are redrawn only when their values change, so the centre screen works less.
+- **DiLink 5.** Experimental "Stay online while parked" setting; the central lock state is learned more reliably.
+- Also: the speed limit sign is read more accurately; electric cars no longer show "HEV" on the cluster; the cluster does not reopen by itself after the car turns off; on the Dolphin, venting no longer opens the windows fully first; sentry no longer misses a person right next to the car; charging power shows decimals; the music card keeps the cover when the song changes; cluster designs can show km and consumption since the last charge and a compass; new language: Portuguese (Portugal).
+
 ## 0.15.28 (2026-11-21)
 
 - **You can turn the headlights off.** With Settings › Appearance › "Headlights on" off, the headlights on the car on the home screen stay dark from every angle. On Atto 2 and Seal the night headlights are no longer pure white but glow with the lamp's own texture; the grey patches on the bonnet of white cars are gone.

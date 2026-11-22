@@ -3,6 +3,20 @@
 Aynı notlar güncellemeden sonra uygulamada ve [yoldas.io](https://yoldas.io/surum-notlari) adresinde de görünür.
 
 
+## 0.15.29 (2026-11-22)
+
+- **Kendi duvar kağıdın.** Düzenle › Sahne › Arka plan'dan stüdyo yerine kendi resmini seç. Araç resmin üstünde arkadan görünür ya da hiç görünmez; resim yalnız aracında saklanır.
+- **Stüdyo ile Yolda arasında tek dokunuş.** Yeni Sahne widget'ıyla istediğin an Yolda'ya ya da stüdyoya geç; P'deyken de çalışır.
+- **Benzer araçlar.** Telefonda Aracım'daki yeni kart, aracını aynı modeldeki araçlarla karşılaştırır: pil sağlığı, tüketim, şehir ve otoyol menzili, DC şarj ve bu ay neyin değiştiği.
+- **Pil belgesi ve aylık karne.** Benzer araçlar › Pil'den yazdırılabilir pil belgesi oluştur. Ayın ilk haftasında aylık karnen, Aralık'ta yılın özeti gelir; dikkat isteyen bir değişimde erken uyarı görürsün.
+- **Direksiyon hissi.** Konfor ya da Spor: ana ekranda widget, otomasyonda adım, telefonda Sürüş panelinde düğme.
+- **Kayıt durursa haberin olur.** Kayıt açık ama kaydedemiyorsa araç ekranında uyarı, telefonda nedeni ve bildirim görürsün. Kart dolunca önce karttaki en eski Yoldaş kayıtları silinir.
+- **Parkta internet.** Aracın mobil interneti parkta kesilirse telefon nedenini yazar. BYD'nin veri denetimi Yoldaş'ı kesiyorsa araçta Ayarlar › Telefon › Bağlantı'dan kapatabilirsin.
+- **Otomasyonda ön yolcu koltuğu.** Ön yolcu koltuğunda biri olup olmadığı tetik ve koşul olarak kullanılabilir. Yarıda kalan bir akış kaldığı adımdan sürer.
+- **Yolda'da araçlar, daha akıcı ekran.** Çevredeki araçları Gerçekçi ya da Sade göster. Sürüşte widget'lar yalnız değerleri değişince yeniden çizilir, orta ekran daha az yorulur.
+- **DiLink 5.** Deneysel "Parkta çevrimiçi kal" ayarı; merkezi kilidin durumu daha güvenilir öğrenilir.
+- Ayrıca: hız sınırı levhası daha doğru okunur; elektrikli araçta kadranda "HEV" yazmaz; kadran araç kapanınca kendiliğinden yeniden açılmaz; Dolphin'de havalandırmada camlar önce tam açılmaz; nöbetçi aracın hemen yanındaki kişiyi kaçırmaz; şarj gücü ondalıklı yazar; müzik kartında şarkı değişince kapak kaybolmaz; kadran tasarımları son şarjdan beri km ve tüketimi ve pusulayı gösterebilir; yeni dil: Portekizce (Portekiz).
+
 ## 0.15.28 (2026-11-21)
 
 - **Farları kapatabilirsin.** Ayarlar › Görünüm › "Farlar yanık" kapalıyken ana ekrandaki araçta farlar her açıdan sönük durur. Atto 2 ve Seal'de gece farı bembeyaz değil, farın kendi dokusuyla parlar; beyaz araçların kaputundaki gri lekeler giderildi.
