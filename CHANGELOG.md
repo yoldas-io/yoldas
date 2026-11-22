@@ -2,6 +2,7 @@
 
 The same notes appear in the app after an update and on [yoldas.io](https://yoldas.io/en/release-notes).
 
+
 ## 0.15.28 (2026-11-21)
 
 - **You can turn the headlights off.** With Settings › Appearance › "Headlights on" off, the headlights on the car on the home screen stay dark from every angle. On Atto 2 and Seal the night headlights are no longer pure white but glow with the lamp's own texture; the grey patches on the bonnet of white cars are gone.

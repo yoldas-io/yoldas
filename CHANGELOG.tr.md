@@ -2,6 +2,7 @@
 
 Aynı notlar güncellemeden sonra uygulamada ve [yoldas.io](https://yoldas.io/surum-notlari) adresinde de görünür.
 
+
 ## 0.15.28 (2026-11-21)
 
 - **Farları kapatabilirsin.** Ayarlar › Görünüm › "Farlar yanık" kapalıyken ana ekrandaki araçta farlar her açıdan sönük durur. Atto 2 ve Seal'de gece farı bembeyaz değil, farın kendi dokusuyla parlar; beyaz araçların kaputundaki gri lekeler giderildi.
