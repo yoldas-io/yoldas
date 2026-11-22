@@ -2,6 +2,20 @@
 
 The same notes appear in the app after an update and on [yoldas.io](https://yoldas.io/en/release-notes).
 
+## 0.15.28 (2026-11-21)
+
+- **You can turn the headlights off.** With Settings › Appearance › "Headlights on" off, the headlights on the car on the home screen stay dark from every angle. On Atto 2 and Seal the night headlights are no longer pure white but glow with the lamp's own texture; the grey patches on the bonnet of white cars are gone.
+- **A smoother centre screen.** The On the road scene, split screen and the CarPlay picture put less load on the centre screen. The app in a split pane no longer closes when you shift between P and D; it waits in place. The turn signal lamps on the home screen car and the Sentry warning are drawn more lightly.
+- **360° recording at full frame rate.** 360° recordings, live view and the turn camera no longer skip every second frame, so recordings are smooth. On some cars the 360° camera no longer stops while opening.
+- **The drive mode shows correctly.** In Normal, the cluster and On the road no longer say "ECO"; Eco chosen with the car's own button is recognised too, and the cluster updates as soon as the mode changes.
+- **Margins and EV/HEV on the cluster.** The margins in Cluster settings now apply to the Yoldaş cluster too and show up as soon as you move the slider. On hybrids every built-in design shows EV/HEV. Designs can show BYD's Trip A/B and the km page chosen with the stalk button.
+- **View for On the road.** In Edit › Scene, choose a Near, Medium or Far view for On the road; the car and the road shrink together. Cars and lorries driving away no longer look like a line.
+- **Seek on the music card.** Drag the bar with your finger to move forward or back in a song (in music apps that allow seeking).
+- **Petrol use on hybrids.** When you shift to P, the trip summary also shows the petrol used on that trip.
+- **More accurate range.** Range is read within the car's own limits: on hybrids the total range no longer drops suddenly with a full tank, and invalid values outside those limits are not shown.
+- **Route of combined trips on the phone.** The route of trips you combined shows on the map; older combined trips no longer say "no location", and the time bar no longer slides back by itself. While connecting to the car, the phone no longer says "Not connected to the car" right away.
+- Also: with the car off, the cluster no longer reopens by itself and comes back when the car is switched on; a navigation app notification without directions is not treated as a direction; a community cluster design you deleted no longer stays in the car and a built-in design takes its place; after an update Yoldaş prepares itself while the car is off, so the first starts stutter less; the orange dots on command buttons are gone.
+
 ## 0.15.26 (2026-11-19)
 
 - **The cluster no longer disappears.** The Yoldaş cluster is now drawn in the cluster's own window with a new method; if something stalls, the window rebuilds itself within seconds and projection is not interrupted. While the cluster is on, a second "Yoldaş" line appears in notifications; this is normal. When the car is switched off and on, the cluster comes back by itself.

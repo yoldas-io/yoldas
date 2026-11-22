@@ -2,6 +2,20 @@
 
 Aynı notlar güncellemeden sonra uygulamada ve [yoldas.io](https://yoldas.io/surum-notlari) adresinde de görünür.
 
+## 0.15.28 (2026-11-21)
+
+- **Farları kapatabilirsin.** Ayarlar › Görünüm › "Farlar yanık" kapalıyken ana ekrandaki araçta farlar her açıdan sönük durur. Atto 2 ve Seal'de gece farı bembeyaz değil, farın kendi dokusuyla parlar; beyaz araçların kaputundaki gri lekeler giderildi.
+- **Daha akıcı orta ekran.** Yolda sahnesi, ekran bölmesi ve CarPlay görüntüsü orta ekranı daha az yorar. Bölmedeki uygulama P ile D arasında geçerken kapanmaz, yerinde bekler. Ana ekrandaki aracın sinyal lambaları ve nöbetçi uyarısı daha hafif çizilir.
+- **360° kayıt tam kare hızında.** 360° kayıtta, canlı izlemede ve sinyal kamerasında görüntü her ikinci kareyi atlamıyor, kayıt akıcı. 360° kamera bazı araçlarda açılışta durmuyor.
+- **Sürüş modu doğru görünür.** Normal'de kadranda ve Yolda'da "ECO" yazmıyor; aracın kendi düğmesiyle seçilen Eco da tanınır ve mod değişince kadran hemen güncellenir.
+- **Kadranda kenar boşlukları ve EV/HEV.** Kadran ayarlarındaki kenar boşlukları Yoldaş kadranına da uygulanır, sürgüyü oynatınca hemen görünür. Hibrit araçlarda bütün yerleşik tasarımlarda EV/HEV görünür. Tasarımlar BYD'nin Trip A/B'sini ve kol tuşuyla seçilen km sayfasını gösterebilir.
+- **Yolda'da bakış.** Düzenle › Sahne'de Yolda için Yakın, Orta ya da Uzak bakışı seç; araç ve yol birlikte küçülür. Uzaklaşan araçlar ve kamyonlar artık çizgi gibi görünmez.
+- **Müzik kartında sarma.** Çubuğu parmağınla sürükleyerek şarkıda ileri ya da geri git (sarmaya izin veren müzik uygulamalarında).
+- **Hibritte benzin tüketimi.** P'ye alınca yolculuk özetinde o yolculukta harcanan benzin de yazar.
+- **Daha doğru menzil.** Menzil aracın kendi sınırlarıyla okunur: hibritte dolu depoda toplam menzil birden düşmüyor, sınırların dışındaki geçersiz değerler gösterilmez.
+- **Telefonda birleşik yolculuğun rotası.** Birleştirdiğin yolculukların rotası haritada görünür; eski birleşimlerde "konum yok" yazmaz, zaman çubuğu kendiliğinden geri kaymaz. Telefon araca bağlanırken hemen "Araca bağlı değil" demez.
+- Ayrıca: araç kapalıyken kadran kendi kendine yeniden açılmaz, araç açılınca gelir; navigasyon uygulamasının yön içermeyen bildirimi yön sayılmaz; sildiğin topluluk kadranı araçta kalmaz, yerine yerleşik tasarım gelir; Yoldaş güncellemeden sonra araç kapalıyken kendini hazırlar, ilk açılışlardaki takılma azalır; komut düğmelerindeki turuncu noktalar kalktı.
+
 ## 0.15.26 (2026-11-19)
 
 - **Kadran artık kaybolmuyor.** Yoldaş kadranı yeni bir yöntemle, kadranın kendi penceresinde çizilir; bir şey takılırsa pencere birkaç saniyede kendini yeniden kurar, aktarım kesilmez. Kadran açıkken bildirimlerde ikinci bir "Yoldaş" satırı görünür, bu normaldir. Araç kapatılıp açılınca kadran kendiliğinden geri gelir.

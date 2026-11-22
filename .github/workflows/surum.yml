@@ -1,0 +1,45 @@
+# yoldas.io'da yeni sürüm çıkınca GitHub sürümünü kendiliğinden yayınlar (APK, SHA-256, notlar, README ve CHANGELOG).
+# Kaynak: scripts/github/sablon (ana depo, özel). Sunucuya anahtar gerekmez; yalnız herkese açık site okunur.
+name: Release from yoldas.io
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check yoldas.io for a new version
+        id: surum
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python .github/scripts/surum.py
+      - name: Commit README and CHANGELOG
+        if: steps.surum.outputs.yeni == 'evet'
+        run: |
+          git config user.name "Yoldaş"
+          git config user.email "iletisim@yoldas.io"
+          git add README.md README.tr.md CHANGELOG.md CHANGELOG.tr.md
+          git diff --cached --quiet || git commit -m "Release ${{ steps.surum.outputs.tag }}"
+          git push
+      - name: Publish GitHub release
+        if: steps.surum.outputs.yeni == 'evet'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "${{ steps.surum.outputs.tag }}" \
+            "release/${{ steps.surum.outputs.apk }}" "release/${{ steps.surum.outputs.apk }}.sha256" \
+            --title "${{ steps.surum.outputs.ad }}" --notes-file release/notes.md --latest
