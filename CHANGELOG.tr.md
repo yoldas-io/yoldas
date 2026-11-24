@@ -3,6 +3,19 @@
 Aynı notlar güncellemeden sonra uygulamada ve [yoldas.io](https://yoldas.io/surum-notlari) adresinde de görünür.
 
 
+## 0.15.30 (2026-11-24)
+
+- **Yalnız karta kaydet.** Bu seçenek açıkken kart kullanılamıyorsa kayıt durur; araç belleğine geçmez. Kartın yazılabilirliği doğrudan denenir, kayıt yeri ve uyarıları araçta ve telefonda görünür.
+- **Kadran kapanışı ve ön kamera.** Araç kapatılınca Yoldaş aktarımı biter ve BYD sürüş özeti görünür. Son ayarı hatırlama kapalıyken eski görüntü kalmaz; diğer uygulamaların kadran çerçevesine dokunulmaz. Ön kameranın düşük hız eşiğini 10, 20, 30 veya 40 km/sa seçebilirsin.
+- **CarPlay ve Android Auto bölmesi.** Android Auto için ayrı Doldur seçeneği; Yoldaş öne geldiğinde bölmedeki CarPlay veya Android Auto görüntüsünü yeniden yerleştirme.
+- **Yeni widget seçenekleri.** Dikey 3×4 müzik kartı ve birleşik Tavan ve perde widget’ı. Cam ve bagaj göstergeleri güncel araç verisini kullanır.
+- **Yolda’da lambalar ve cam filmi.** Fren ve sinyal lambaları Yolda sahnesinde yanar. Ana ekrandaki dönen araç cam filmini gösterir; gece görüntülerindeki bazı beyaz yansımalar giderildi.
+- **Her yerde aynı rakım.** GPS alıcısının deniz seviyesine göre rakımı araçta, telefonda, yolculuklarda ve ABRP’de kullanılır. Üst şeride Rakım eklenebilir; geçerli GPS rakımı yoksa değer gösterilmez.
+- **Batarya koruma ve camlar.** Batarya korumayı kapatma komutu ve açık/kapalı göstergesi düzeltildi. Cam havalandırması yeniden aracın nefes komutunu kullanır.
+- **Telefon aramasında süre sınırı kalktı.** Araç telefonunu ararken 12 saat dolunca aramayı bırakmaz; diğer arama ve dinlenme kuralları korunur.
+- **Telefonda yolculuk ve otomasyon rehberi.** Yolculuk zaman çubuğu bırakılınca geri kaymaz. Yapay zekâ otomasyon rehberine 31 renkli ambiyans paleti eklendi.
+- **DiLink 5 ve sorun incelemesi.** Araç verisi ve pil sağlığı okuma yolları geliştirildi. Deneysel park bağlantısı, kamera, sıcaklık, geri vites ve yolcu koltuğu sorunlarını incelemeye yardımcı tanılar eklendi.
+
 ## 0.15.29 (2026-11-22)
 
 - **Kendi duvar kağıdın.** Düzenle › Sahne › Arka plan'dan stüdyo yerine kendi resmini seç. Araç resmin üstünde arkadan görünür ya da hiç görünmez; resim yalnız aracında saklanır.

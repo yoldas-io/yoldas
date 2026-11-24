@@ -3,6 +3,19 @@
 The same notes appear in the app after an update and on [yoldas.io](https://yoldas.io/en/release-notes).
 
 
+## 0.15.30 (2026-11-24)
+
+- **Record only to the card.** With this option enabled, recording stops if the card is unavailable instead of switching to internal storage. Card write access is tested directly; storage status and warnings appear in the car and on your phone.
+- **Instrument display and front camera.** Yoldaş transmission ends when the car is switched off so the BYD trip summary can appear. Disabling remember-last-setting no longer leaves an old frame; other apps’ instrument frames are left alone. Choose a low-speed front-camera threshold of 10, 20, 30 or 40 km/h.
+- **CarPlay and Android Auto panes.** A separate Fill option for Android Auto, with CarPlay or Android Auto restored to its pane when Yoldaş returns to the foreground.
+- **New widget options.** A vertical 3×4 music card and a combined Sunroof and shade widget. Window and trunk indicators use current vehicle data.
+- **Lights and window tint in the driving scene.** Brake and turn-signal lights illuminate in the driving scene. The rotating home-screen car shows window tint; some white reflections in night images have been removed.
+- **Consistent altitude.** GPS altitude above sea level is shared by the car, phone, trips and ABRP. Add Altitude to the top bar; no value is shown without a valid GPS altitude.
+- **Battery preservation and windows.** Corrected the battery-preservation off command and on/off indicator. Window ventilation uses the car’s ventilation command again.
+- **No 12-hour phone-search limit.** The car no longer stops searching for your phone after 12 hours; other search and rest rules remain in effect.
+- **Phone trip timeline and automation guide.** The trip timeline no longer jumps back after release. The AI automation guide now includes a 31-colour ambient-light palette.
+- **DiLink 5 and diagnostics.** Improved vehicle-data and battery-health reading paths. Added diagnostics for experimental parking connectivity, cameras, temperature, reverse gear and passenger occupancy.
+
 ## 0.15.29 (2026-11-22)
 
 - **Your own wallpaper.** In Edit › Scene › Background, pick your own picture instead of the studio. The car appears on top of it from behind, or not at all; the picture is stored only on your car.

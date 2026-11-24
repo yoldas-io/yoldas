@@ -14,8 +14,8 @@ Get the latest APK from [Releases](https://github.com/yoldas-io/yoldas/releases/
 
 | | |
 |---|---|
-| APK | `0.15.29` (324) |
-| SHA-256 | `ec7e92989facb74d08202862f3277f8c9e0989c3bdf395e722c94807ebc18f90` |
+| APK | `0.15.30` (325) |
+| SHA-256 | `22a6179afe96d202f7639f49f78e921552842206f9a9b6132f9934176a35b41e` |
 | Signing certificate (SHA-256) | `dd695000acb1d946491b04d2f5f69a019c57c0b6c45588562044fec255a1277e` |
 
 ## Install in three steps
