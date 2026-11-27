@@ -3,6 +3,20 @@
 The same notes appear in the app after an update and on [yoldas.io](https://yoldas.io/en/release-notes).
 
 
+## 0.15.32 (2026-11-28)
+
+- **An app in the middle of the cluster.** Put an app of your choice in the middle of the Yoldaş cluster. CarPlay, Android Auto and app maps can sit in the selected design’s own map window (“Inside the design”). With CarPlay or Android Auto on, the cluster also shows EV/HEV and fuel.
+- **A sturdier cluster.** An app you send to the cluster is moved back if it drops to the centre screen, and the Yoldaş cluster reopens itself if it stops drawing. The song title on the BYD cluster no longer breaks between tracks. Road appearance has a new “Keep last speed sign” setting. On the first start after the update, the cluster reloads once.
+- **A/C button.** BYD’s A/C button in the climate window and the bottom bar: switching it off stops only the compressor, while heating and the fan keep running.
+- **PM2.5 window.** Tap PM2.5 in the top bar to see inside and outside values, the air-quality level and BYD’s advice. Turn on ionisation, quick purification and automatic purification with one tap.
+- **Daytime lights and screen rotation.** Switch the daytime running lights off while in P and stationary; a Daytime running lights widget is now on the home screen. Automations gain a “Rotate screen” step, for example to turn the screen portrait when the car starts.
+- **CarPlay and Android Auto pane.** Choose CarPlay or Android Auto for the pane, or let Yoldaş pick it from the connected phone. An app that escapes the pane is brought back, and in a stacked split Yoldaş fills the screen edge to edge. Android Auto opens on more cars.
+- **Home screen.** Window tint now covers the windscreen and rear window too, and you choose which windows get it; tint no longer spills onto the pillars. Wallpapers and cluster photos save again. The music widget has large buttons while driving, and car status icons stay below the top bar.
+- **Recordings.** On a new installation, driving recording, parking recording and Sentry start switched off; existing settings are unchanged. Recordings have a “Protected” filter, and a clip you protect stays in the list.
+- **Three new languages.** Malay, Indonesian and Azerbaijani in the car, on the phone and on the website. Percentages follow each language’s own style.
+- **DiLink 5.** With phone control on, the parking connection works automatically. Turn-signal camera and camera support are broader; the freeze when switching cameras and the double bottom bar are fixed.
+- **Other fixes.** Eco no longer shows as Normal on hybrids. A lock command that doesn’t take is sent again, and lock-when-leaving works more reliably. The Sentry screen alert now appears on screen, and the bottom bar hides during full-screen video. GPS altitude is calculated more accurately; the car model name and some currencies are fixed on the phone.
+
 ## 0.15.30 (2026-11-24)
 
 - **Record only to the card.** With this option enabled, recording stops if the card is unavailable instead of switching to internal storage. Card write access is tested directly; storage status and warnings appear in the car and on your phone.

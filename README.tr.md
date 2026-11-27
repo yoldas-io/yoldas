@@ -14,8 +14,8 @@ Son APK'yı [Sürümler](https://github.com/yoldas-io/yoldas/releases/latest) b�
 
 | | |
 |---|---|
-| APK | `0.15.30` (325) |
-| SHA-256 | `22a6179afe96d202f7639f49f78e921552842206f9a9b6132f9934176a35b41e` |
+| APK | `0.15.32` (327) |
+| SHA-256 | `2e34b3cf164c8b910b2035b66a4ffbecea2e3ad8db03be8ac2fc1bed564e1eb5` |
 | İmza sertifikası (SHA-256) | `dd695000acb1d946491b04d2f5f69a019c57c0b6c45588562044fec255a1277e` |
 
 ## Üç adımda kurulum

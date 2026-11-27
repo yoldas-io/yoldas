@@ -3,6 +3,20 @@
 Aynı notlar güncellemeden sonra uygulamada ve [yoldas.io](https://yoldas.io/surum-notlari) adresinde de görünür.
 
 
+## 0.15.32 (2026-11-28)
+
+- **Kadranın ortasında uygulama.** Yoldaş kadranının ortasına seçtiğin bir uygulamayı koyabilirsin. CarPlay, Android Auto ve uygulama haritası seçili tasarımın kendi harita penceresine oturabilir (“Tasarımın içinde”). CarPlay ve Android Auto açıkken kadranda EV/HEV ve yakıt da görünür.
+- **Kadran daha sağlam.** Kadrana aktardığın uygulama orta ekrana düşerse geri taşınır; Yoldaş kadranı çizilmezse kendini yeniden açar. BYD kadranındaki şarkı adı parça geçişlerinde bozulmaz. Yolun görünümü’ne “Son hız levhasını tut” ayarı eklendi. Güncellemeden sonraki ilk açılışta kadran bir kez yeniden yüklenir.
+- **A/C düğmesi.** Klima penceresinde ve alt çubukta BYD’nin A/C düğmesi: kapatınca yalnız kompresör durur, ısıtma ve fan çalışmaya devam eder.
+- **PM2.5 penceresi.** Üst şeritteki PM2.5’e dokun: iç ve dış değer, hava kalitesi seviyesi ve BYD’nin önerisi görünür. İyon, hızlı arındırma ve otomatik arındırma buradan tek dokunuşla açılır.
+- **Gündüz farı ve ekranı döndürme.** Gündüz farını P’deyken ve araç dururken kapatabilirsin; ana ekrana Gündüz farı widget’ı eklendi. Otomasyonlara “Ekranı döndür” adımı geldi; örneğin araç açılınca ekranı dikeye alabilirsin.
+- **CarPlay ve Android Auto bölmesi.** Bölmede CarPlay ya da Android Auto’yu seç; bağlı telefona göre kendiliğinden de seçilir. Bölmeden kaçan uygulama geri alınır; üst üste bölmede Yoldaş ekranı kenardan kenara doldurur. Android Auto daha çok araçta açılır.
+- **Ana ekran.** Cam filmi ön ve arka cama da uygulanır, hangi camlara uygulanacağını sen seçersin; direklere taşma giderildi. Duvar kağıdı ve kadran fotoğrafı yeniden kaydedilebiliyor. Müzik widget’ında sürüşte büyük düğmeler var; araç durum simgeleri üst şeridin altında kalır.
+- **Kayıtlar.** Yeni kurulumda sürüşte kayıt, park kaydı ve nöbetçi kapalı gelir; mevcut ayarların değişmez. Kayıtlarda “Korunan” süzgeci var; Koru’ya bastığın kayıt listede kalır.
+- **Üç yeni dil.** Malayca, Endonezce ve Azerbaycanca araçta, telefonda ve sitede. Yüzdeler her dilin kendi yazımıyla gösterilir.
+- **DiLink 5.** Telefondan kontrol açıksa park bağlantısı kendiliğinden çalışır. Sinyal kamerası ve kamera desteği genişledi; kamera geçişindeki donma ve çift alt çubuk giderildi.
+- **Diğer düzeltmeler.** Hibritte Eco artık Normal görünmez. Kilit komutu tutmazsa yeniden gönderilir; uzaklaşınca kilitle daha güvenilir çalışır. Nöbetçi ekran uyarısı ekranda görünür; tam ekran videoda alt çubuk gizlenir. GPS rakımı daha doğru hesaplanır; telefonda model adı ve bazı para birimleri düzeltildi.
+
 ## 0.15.30 (2026-11-24)
 
 - **Yalnız karta kaydet.** Bu seçenek açıkken kart kullanılamıyorsa kayıt durur; araç belleğine geçmez. Kartın yazılabilirliği doğrudan denenir, kayıt yeri ve uyarıları araçta ve telefonda görünür.
